@@ -1,0 +1,985 @@
+,Company Name,Model,Color,Price,MRP,RAM,ROM,Display size,Battery size,Processor
+1,Realme,C11,Rich Grey,"7,499","8,999",2 GB,32GB,16.51 cm ,5000 mAh ,Mediatek Helio G35 
+2,Realme,C11,Rich Green,"7,499","8,999",2 GB,32GB,16.51 cm ,5000 mAh ,Mediatek Helio G35 
+3,Redmi,8,Ruby Red,"9,999","10,999",4 GB,64GB,15.8 cm ,5000 mAh ,Qualcomm Snapdragon 439 
+4,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+5,Redmi,8,Sapphire Blue,"9,999","10,999",4 GB,64GB,15.8 cm ,5000 mAh ,Qualcomm Snapdragon 439 
+6,Realme,5i,Aqua Blue,"10,999","10,999",4 GB, 64 GB,16.56 cm ,5000 mAh ,Qualcomm Snapdragon 665 2 GHz 
+7,Tecno,Spark Power 2,Ice Jadeite,"9,999","11,999",4 GB,64GB,17.78 cm ,6000 mAh Li-ion Polymer ,MediaTek Helio P22 Octa Core 
+8,Tecno,Spark Power 2,Misty Grey,"9,999","11,999",4 GB,64GB,17.78 cm ,6000 mAh Li-ion Polymer ,MediaTek Helio P22 Octa Core 
+9,Realme,5i,Forest Green,"10,999","10,999",4 GB, 64 GB,16.56 cm ,5000 mAh ,Qualcomm Snapdragon 665 2 GHz 
+10,Infinix,Hot 9 Pro,Violet,"10,499","12,999",4 GB,64GB,16.76 cm ,5000 mAh Li-ion Polymer ,MediaTek Helio P22 (64 bit) 
+11,Realme,6,Comet Blue,"15,999","17,999",6 GB,64GB,16.51 cm ,4300 mAh ,MediaTek Helio G90T 
+12,Infinix,Hot 9 Pro,Ocean Wave,"10,499","12,999",4 GB,64GB,16.76 cm ,5000 mAh Li-ion Polymer ,MediaTek Helio P22 (64 bit) 
+13,Redmi,8,Emerald Green,"9,999","10,999",4 GB,64GB,15.8 cm ,5000 mAh ,Qualcomm Snapdragon 439 
+14,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+15,POCO,X2,Matrix Purple,"18,499","19,999",6 GB,128GB,16.94 cm ,4500 mAh Lithium-ion Polymer ,Qualcomm Snapdragon 730G 
+16,POCO,X2,Atlantis Blue,"18,499","19,999",6 GB,128GB,16.94 cm ,4500 mAh Lithium-ion Polymer ,Qualcomm Snapdragon 730G 
+17,Realme,C2,Diamond Blue,"6,999","7,999",2 GB,32GB,15.49 cm ,4000 mAh ,MediaTek P22 Octa Core 2.0 GHz 
+18,Realme,6i,Eclipse Black,"14,999","15,999",6 GB,64GB,16.51 cm ,4300 mAh ,MediaTek Helio G90T 
+19,Realme,6i,Eclipse Black,"12,999","14,999",4 GB,64GB,16.51 cm ,4300 mAh ,MediaTek Helio G90T 
+20,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+21,Realme,6,Comet White,"15,999","17,999",6 GB,64GB,16.51 cm ,4300 mAh ,MediaTek Helio G90T 
+22,Realme,6i,Lunar White,"14,999","15,999",6 GB,64GB,16.51 cm ,4300 mAh ,MediaTek Helio G90T 
+23,Realme,6i,Lunar White,"12,999","14,999",4 GB,64GB,16.51 cm ,4300 mAh ,MediaTek Helio G90T 
+24,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+25,Realme,C3,Frozen Blue,"8,999","8,999",3 GB,32GB,16.56 cm ,5000 mAh ,Helio G70 
+26,Realme,6 Pro,Lightning Blue,"17,999","17,999",6 GB,64GB,16.76 cm ,4300 mAh ,Snapdragon 720G 
+27,Apple,iPhone SE,White,"36,999","42,500",, 64 GB,11.94 cm ,,A13 Bionic Chip with 3rd Gen Neural Engine 
+28,Apple,iPhone SE,Red,"36,999","42,500",, 64 GB,11.94 cm ,,A13 Bionic Chip with 3rd Gen Neural Engine 
+29,OPPO,A5s,Blue,"7,990","12,990",2 GB,32GB,15.75 cm ,4230 mAh ,MTK MT6765 
+30,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+31,OPPO,A5s,Black,"10,990","15,990",4 GB,64GB,15.75 cm ,4230 mAh ,MTK MT6765 
+32,Motorola,G8 Power Lite,Royal Blue,"9,999","9,999",4 GB,64GB,16.51 cm ,5000 mAh Lithium-ion ,MediaTek Helio P35 
+33,Realme,Narzo 10A,So White,"8,999","9,999",3 GB,32GB,16.56 cm ,5000 mAh Lithium-ion ,MediaTek Helio G70 (12 nm) 
+34,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+35,Realme,Narzo 10A,So White,"9,999","10,999",4 GB,64GB,16.56 cm ,5000 mAh Lithium-ion ,MediaTek Helio G70 (12 nm) 
+36,Realme,Narzo 10A,So Blue,"9,999","10,999",4 GB,64GB,16.56 cm ,5000 mAh Lithium-ion ,MediaTek Helio G70 (12 nm) 
+37,Realme,Narzo 10A,So Blue,"8,999","9,999",3 GB,32GB,16.56 cm ,5000 mAh Lithium-ion ,MediaTek Helio G70 (12 nm) 
+38,Apple,iPhone XR,Black,"45,999","52,500",, 64 GB,15.49 cm ,,A12 Bionic Chip 
+39,Redmi,Note 8 Pro,Gamma Green,"15,999","16,999",6 GB,64GB,16.59 cm ,4500 mAh Li-polymer ,MediaTek Helio G90T 
+40,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+41,Realme,6,Comet Blue,"17,999","17,999",8 GB,128GB,16.51 cm ,4300 mAh ,MediaTek Helio G90T 
+42,OPPO,Reno2 F,Lake Green,"17,990","19,990",6 GB, 256 GB,16.51 cm ,4000 mAh ,MTK MT6771V(P70) 64bit 
+43,OPPO,Reno2 F,Lake Green,"21,990","28,990",8 GB, 128 GB,16.51 cm ,4000 mAh ,MTK MT6771V(P70) 64bit 
+44,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+45,OPPO,A5s,Gold,"10,990","15,990",4 GB,64GB,15.75 cm ,4230 mAh ,MTK MT6765 
+46,OPPO,A5s,Green,"10,990","15,990",4 GB,64GB,15.75 cm ,4230 mAh ,MTK MT6765 
+47,Apple,iPhone XR,Black,"56,490","56,490",, 128 GB,15.49 cm ,,A12 Bionic Chip 
+48,POCO,X2,Phoenix Red,"18,499","19,999",6 GB,128GB,16.94 cm ,4500 mAh Lithium-ion Polymer ,Qualcomm Snapdragon 730G 
+49,Apple,iPhone SE,White,"41,999","47,800",, 128 GB,11.94 cm ,,A13 Bionic Chip with 3rd Gen Neural Engine 
+50,I,Kall K300 NEW,Black,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+51,Honor,9S,Black,"6,499","7,999",2 GB,32GB,13.84 cm ,3020 mAh Lithium Polymer ,MediaTek Helio P22 (MT6762R) Octa Core 
+52,Honor,9S,Blue,"6,499","7,999",2 GB,32GB,13.84 cm ,3020 mAh Lithium Polymer ,MediaTek Helio P22 (MT6762R) Octa Core 
+53,Apple,iPhone 7,Black,"28,499","31,500",, 32 GB,11.94 cm ,,Apple A10 Fusion 64-bit 
+54,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+55,Vivo,Y12,Burgundy Red,"10,990","13,990",3 GB,64GB,16.13 cm ,5000 mAh ,MediaTek Helio P22 
+56,Vivo,Y12,Aqua Blue,"10,990","13,990",3 GB,64GB,16.13 cm ,5000 mAh ,MediaTek Helio P22 
+57,Apple,iPhone SE,Red,"41,999","47,800",, 128 GB,11.94 cm ,,A13 Bionic Chip with 3rd Gen Neural Engine 
+58,Vivo,Y91i,Fusion Black,"7,990","9,990",2 GB,32GB,15.8 cm ,4030 mAh Li-ion ,MTK Helio P22 
+59,Vivo,Y91i,Ocean Blue,"7,990","9,990",2 GB,32GB,15.8 cm ,4030 mAh Li-ion ,MTK Helio P22 
+60,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+61,Vivo,Y15,Burgundy Red,"12,990","15,990",4 GB,64GB,16.13 cm ,5000 mAh ,MediaTek Helio P22 
+62,Vivo,Y15,Aqua Blue,"12,990","15,990",4 GB,64GB,16.13 cm ,5000 mAh ,MediaTek Helio P22 
+63,Redmi,Note 8 Pro,Shadow Black,"17,499","17,999",6 GB,128GB,16.59 cm ,4500 mAh Li-polymer ,MediaTek Helio G90T 
+64,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+65,Redmi,K20 Pro,Glacier Blue,"22,999","28,999",6 GB, 128 GB,16.23 cm ,4000 mAh Li-polymer ,Qualcomm Snapdragon 855 
+66,Redmi,Note 9,Pebble Grey,"14,999","14,999",4 GB,64GB,16.59 cm ,5020 mAh ,MediaTek Helio G85 
+67,Redmi,Note 9,Pebble Grey,"16,305","16,305",4 GB,128GB,16.59 cm ,5020 mAh ,MediaTek Helio G85 
+68,Redmi,Note 9,Aqua Green,"14,829","14,829",4 GB,64GB,16.59 cm ,5020 mAh ,MediaTek Helio G85 
+69,Apple,iPhone XR,Blue,"45,999","52,500",, 64 GB,15.49 cm ,,A12 Bionic Chip 
+70,I,Kall K700,Red,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+71,Redmi,Note 8 Pro,Gamma Green,"17,499","17,999",6 GB,128GB,16.59 cm ,4500 mAh Li-polymer ,MediaTek Helio G90T 
+72,Vivo,Y91i,Fusion Black,"8,990","9,990",3 GB,32GB,15.8 cm ,4030 mAh Lithium-ion ,MediaTek Helio P22 
+73,OPPO,A9 2020,Space Purple,"15,990","21,990",8 GB, 128 GB,16.51 cm ,5000 mAh ,Qualcomm SM6125 
+74,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+75,Realme,X2,Pearl White,"22,999","24,999",8 GB, 256 GB,16.26 cm ,4000 mAh ,Qualcomm Snapdragon 730G 
+76,Samsung,Galaxy M31,Ocean Blue,"19,860","19,860",6 GB,128GB,16.26 cm ,6000 mAh ,Samsung Exynos 9 Octa 9611 
+77,Vivo,Z1x,Fusion Blue,"16,990","19,990",6 GB, 64 GB,16.21 cm ,4500 mAh Li-ion ,Qualcomm Snapdragon 712 AIE 
+78,Vivo,Z1x,Phantom Purple,"16,990","19,990",6 GB, 64 GB,16.21 cm ,4500 mAh Li-ion ,Qualcomm Snapdragon 712 AIE 
+79,Vivo,Z1x,Fusion Blue,"18,990","24,990",8 GB, 128 GB,16.21 cm ,4500 mAh Li-ion ,Qualcomm Snapdragon 712 AIE 
+80,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+81,Redmi,8A Dual,Midnight Grey,"8,165","8,165",2 GB,32GB,15.8 cm ,5000 mAh ,Snapdragon 439 octa core processor 
+82,Redmi,8A Dual,Sea Blue,"8,999","8,999",3 GB,32GB,15.8 cm ,5000 mAh ,Snapdragon 439 octa core processor 
+83,Redmi,K20 Pro,Flame Red,"22,999","28,999",6 GB, 128 GB,16.23 cm ,4000 mAh Li-polymer ,Qualcomm Snapdragon 855 
+84,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+85,Redmi,8A Dual,Sky White,"8,180","8,499",2 GB,32GB,15.8 cm ,5000 mAh ,Snapdragon 439 octa core processor 
+86,OPPO,A31,Fantasy White,"12,490","12,990",4 GB,64GB,16.51 cm ,4230 mAh ,MediaTek Helio P35 ((MT6765V/CB) (4 x Cortex-A53L + 4 x Cortex-A53LL) 12 nm 64-bit 
+87,OPPO,A31,Mystery Black,"12,490","12,990",4 GB,64GB,16.51 cm ,4230 mAh ,MediaTek Helio P35 ((MT6765V/CB) (4 x Cortex-A53L + 4 x Cortex-A53LL) 12 nm 64-bit 
+88,Vivo,V19,Piano Black,"27,990","34,990",8 GB,256GB,16.36 cm ,4500 mAh Lithium-ion ,Qualcomm Snapdragon 712 AIE 
+89,Realme,6,Comet White,"17,999","17,999",8 GB,128GB,16.51 cm ,4300 mAh ,MediaTek Helio G90T 
+90,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+91,OPPO,Reno4 Pro,Silky White,"34,990","37,990",8 GB,128GB,16.51 cm ,4000 mAh Lithium-ion Polymer ,Qualcomm Snapdragon 720G Octa Core 
+92,Samsung,Galaxy M31,Space Black,"19,945","19,945",6 GB,128GB,16.26 cm ,6000 mAh ,Samsung Exynos 9 Octa 9611 
+93,OPPO,Reno4 Pro,Starry Night,"34,990","37,990",8 GB,128GB,16.51 cm ,4000 mAh Lithium-ion Polymer ,Qualcomm Snapdragon 720G Octa Core 
+94,I,Kall K700,Green,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+95,Vivo,Y11,Mineral Blue,"9,990","9,990",3 GB, 32 GB,16.13 cm ,5000 mAh ,SDM439 
+96,Realme,Narzo 10,That Green,"11,999","12,999",4 GB,128GB,16.51 cm ,5000 mAh Lithium-ion ,MediaTek Helio G80 (12 nm) 
+97,Apple,iPhone 7,Silver,"28,499","31,500",, 32 GB,11.94 cm ,,Apple A10 Fusion 64-bit 
+98,OPPO,F15,Blazing Blue,"16,990","20,990",4 GB,128GB,16.26 cm ,4000 mAh ,MediaTek Helio P70 
+99,OPPO,F15,Lightening Black,"16,990","20,990",4 GB,128GB,16.26 cm ,4000 mAh ,MediaTek Helio P70 
+100,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+101,Realme,6,Comet White,"14,999","14,999",4 GB,64GB,16.51 cm ,4300 mAh ,MediaTek Helio G90T 
+102,Apple,iPhone XR,Coral,"45,999","52,500",, 64 GB,15.49 cm ,,A12 Bionic Chip 
+103,Realme,5 Pro,Sparkling Blue,"14,999","15,999",6 GB,64GB,16.0 cm ,4035 mAh ,Qualcomm Snapdragon SDM712 Octa Core 2.3 GHz 
+104,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+105,Realme,5 Pro,Sparkling Blue,"16,999","17,999",8 GB,128GB,16.0 cm ,4035 mAh ,Qualcomm Snapdragon SDM712 Octa Core 2.3 GHz 
+106,Redmi,Note 8 Pro,Shadow Black,"15,999","16,999",6 GB,64GB,16.59 cm ,4500 mAh Li-polymer ,MediaTek Helio G90T 
+107,Vivo,Y50,Iris Blue,"17,990","19,990",8 GB,128GB,16.59 cm ,5000 mAh Lithium-ion ,Qualcomm Snapdragon 665 
+108,Redmi,Note 8 Pro,Electric Blue,"16,999","16,999",6 GB,64GB,16.59 cm ,4500 mAh Li-polymer ,MediaTek Helio G90T 
+109,Vivo,S1 Pro,Mystic Black,"19,990","20,990",8 GB,128GB,16.21 cm ,4500 mAh Lithium Polymer ,Qualcomm Snapdragon 665 
+110,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+111,Vivo,Y30,Emerald Black,"14,990","18,990",4 GB,128GB,16.43 cm ,5000 mAh Lithium-ion ,MediaTek Helio P35 
+112,Vivo,Y30,Dazzle Blue,"14,990","18,990",4 GB,128GB,16.43 cm ,5000 mAh Lithium-ion ,MediaTek Helio P35 
+113,Redmi,Note 9 Pro,Aurora Blue,"16,999","16,999",4 GB,64GB,16.94 cm ,5020 mAh ,Qualcomm® Snapdragon™ 720G 
+114,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+115,Realme,X2,Pearl Green,"20,999","20,999",8 GB, 128 GB,16.26 cm ,4000 mAh ,Qualcomm Snapdragon 730G 
+116,Realme,5 Pro,Chroma White,"16,999","16,999",8 GB,128GB,16.0 cm ,4035 mAh ,Qualcomm Snapdragon SDM712 Octa Core 2.3 GHz 
+117,Realme,5i,Aqua Blue,"10,999","10,999",4 GB, 64 GB,16.56 cm ,5000 mAh ,Qualcomm Snapdragon 665 2 GHz 
+118,Motorola,G8 Power Lite,Arctic Blue,"9,999","9,999",4 GB,64GB,16.51 cm ,5000 mAh Lithium-ion ,MediaTek Helio P35 
+119,POCO,M2 Pro,Out of the Blue,"14,999","17,999",6 GB,64GB,16.94 cm ,5000 mAh Lithium-ion Polymer ,Qualcomm Snapdragon 720G 
+120,I,Kall K700,Green,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+121,Samsung,Galaxy M11,Black,"11,897","12,910",3 GB,32GB,16.26 cm ,5000 mAh Lithium-ion ,Qualcomm Snapdragon (SDM450-F01) Octa Core 
+122,Vivo,U10,Thunder Black,"10,990","10,990",3 GB,32GB,16.13 cm ,5000 mAh Li-ion ,Qualcomm Snapdragon 665 AIE 
+123,iQOO,3,Quantum Silver,"37,990","40,990",8 GB, 256 GB,16.36 cm ,4440 mAh Li-ion ,Qualcomm Snapdragon 865 
+124,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+125,Vivo,U10,Electric Blue,"10,990","10,990",3 GB,32GB,16.13 cm ,5000 mAh Li-ion ,Qualcomm Snapdragon 665 AIE 
+126,OPPO,A12,Blue,"9,990","10,990",3 GB,32GB,15.8 cm ,4230 mAh ,MediaTek Helio P35 (MT6765V/CB) 
+127,Vivo,Z1Pro,Sonic Black,"17,990","20,990",6 GB,128GB,16.59 cm ,5000 mAh ,Qualcomm Snapdragon 712 AIE Octa Core 2.3GHz 
+128,OPPO,F15,Blazing Blue,"18,990","22,990",8 GB,128GB,16.26 cm ,4000 mAh ,Helio P70 
+129,OPPO,F15,Unicorn White,"18,990","22,990",8 GB,128GB,16.26 cm ,4000 mAh ,Helio P70 
+130,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+131,Apple,iPhone 7 Plus,Black,"34,999","37,900",, 32 GB,13.97 cm ,,Apple A10 Fusion 64-bit 
+132,Infinix,Smart 4 Plus,Midnight Black,"7,999","9,999",3 GB,32GB,17.32 cm ,6000 mAh Lithium-ion Polymer ,Mediatek Helio A25 
+133,Infinix,Smart 4 Plus,Violet,"7,999","9,999",3 GB,32GB,17.32 cm ,6000 mAh Lithium-ion Polymer ,Mediatek Helio A25 
+134,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+135,Redmi,Note 8 Pro,Shadow Black,"18,999","19,999",8 GB,128GB,16.59 cm ,4500 mAh Li-polymer ,MediaTek Helio G90T 
+136,Vivo,Y50,Pearl White,"17,990","19,990",8 GB,128GB,16.59 cm ,5000 mAh Lithium-ion ,Qualcomm Snapdragon 665 
+137,Realme,X2 Pro,Neptune Blue,"32,999","35,999",12 GB, 256 GB,16.51 cm ,4000 mAh ,Qualcomm Snapdragon 855 Plus 
+138,Lava,Z61 Pro,Champagne Gold,"5,777","6,499",2 GB,16GB,13.84 cm ,3100 mAh Lithium Polymer ,Unisoc Octa Core 
+139,Redmi,Note 8 Pro,Gamma Green,"18,999","19,999",8 GB,128GB,16.59 cm ,4500 mAh Li-polymer ,MediaTek Helio G90T 
+140,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+141,Realme,X3,Arctic White,"25,999","27,999",8 GB, 128 GB,16.69 cm ,4200 mAh ,Qualcomm Snapdragon 855+ 
+142,Redmi,K20 Pro,Pearl White,"22,999","28,999",6 GB, 128 GB,16.23 cm ,4000 mAh Li-polymer ,Qualcomm Snapdragon 855 
+143,Vivo,S1 Pro,Jazzy Blue,"19,990","20,990",8 GB,128GB,16.21 cm ,4500 mAh Lithium Polymer ,Qualcomm Snapdragon 665 
+144,I,Kall K700,Green,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+145,Vivo,S1 Pro,Jazzy Blue,"19,990","20,990",8 GB,128GB,16.21 cm ,4500 mAh Lithium Polymer ,Qualcomm Snapdragon 665 
+146,Redmi,K20 Pro,Pearl White,"22,999","28,999",6 GB, 128 GB,16.23 cm ,4000 mAh Li-polymer ,Qualcomm Snapdragon 855 
+147,Apple,iPhone XR,Yellow,"45,999","52,500",, 64 GB,15.49 cm ,,A12 Bionic Chip 
+148,OPPO,A52,Stream White,"16,990","19,990",6 GB,128GB,16.51 cm ,5000 mAh Lithium Polymer ,Qualcomm Snapdragon 665 (SM6125) 
+149,OPPO,A52,Twilight Black,"16,990","19,990",6 GB,128GB,16.51 cm ,5000 mAh Lithium Polymer ,Qualcomm Snapdragon 665 (SM6125) 
+150,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+151,Realme,X2,Pearl Green,"17,999","17,999",4 GB, 64 GB,16.26 cm ,4000 mAh ,Qualcomm Snapdragon 730G 
+152,Redmi,8A Dual,Sea Blue,"9,434","9,999",3 GB, 64 GB,15.8 cm ,5000 mAh ,Snapdragon 439  
+153,Redmi,Note 8,Space Black,"15,990","15,990",6 GB, 128 GB,16.0 cm ,4000 mAh ,
+154,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+155,Vivo,Y19,Spring White,"14,990","15,990",4 GB,128GB,16.59 cm ,5000 mAh Li-ion ,Helio P65 
+156,Vivo,Y19,Magnetic Black,"14,990","15,990",4 GB,128GB,16.59 cm ,5000 mAh Li-ion ,Helio P65 
+157,Samsung,Galaxy A31,Prism Crush Black,"20,999","23,999",6 GB,128GB,16.26 cm ,5000 mAh Lithium-ion ,MediaTek (MT6768) Octa Core 
+158,OPPO,A11K,Deep Blue,"8,990","10,990",2 GB,32GB,15.8 cm ,4230 mAh Li-polymer ,MT6765V/CB Octa Core 
+159,Tecno,Camon 15,SHOAL GOLD,"11,499","12,499",4 GB,64GB,16.64 cm ,5000 mAh Li-ion Polymer ,Helio P22 MT6762 
+160,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+161,Vivo,Z1Pro,Sonic Blue,"17,990","20,990",6 GB,128GB,16.59 cm ,5000 mAh ,Qualcomm Snapdragon 712 AIE Octa Core 2.3GHz 
+162,Redmi,Note 9,Arctic White,"14,990","14,990",4 GB,64GB,16.59 cm ,5020 mAh ,MediaTek Helio G85 
+163,Samsung,Galaxy A31,Prism Crush Blue,"20,999","23,999",6 GB,128GB,16.26 cm ,5000 mAh Lithium-ion ,MediaTek (MT6768) Octa Core 
+164,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+165,Redmi,Note 8 Pro,Electric Blue,"17,499","17,999",6 GB,128GB,16.59 cm ,4500 mAh Li-polymer ,MediaTek Helio G90T 
+166,OPPO,A12,Black,"11,490","11,990",4 GB,64GB,15.8 cm ,4230 mAh ,MediaTek Helio P35 (MT6765V/CB) 
+167,OPPO,F15,Lightening Black,"18,990","22,990",8 GB,128GB,16.26 cm ,4000 mAh ,Helio P70 
+168,Samsung,Galaxy A51,Prism Crush Black,"23,999","25,999",6 GB,128GB,16.26 cm ,4000 mAh Lithium-ion ,Exynos 9611 
+169,Samsung,Galaxy M21,Raven Black,"17,990","17,999",6 GB,128GB,16.26 cm ,6000 mAh , Exynos 9611-Octa Core processor 
+170,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+171,Nokia,3.2,Black,"9,888","10,639",3 GB,32GB,15.9 cm ,4000 mAh ,Qualcomm Snapdragon 429 
+172,Panasonic,Eluga I8,Charcoal Black,"8,523","9,499",3 GB,32GB,15.8 cm ,4000 mAh ,Meditek 
+173,Samsung,Galaxy A31,Prism Crush White,"20,999","23,999",6 GB,128GB,16.26 cm ,5000 mAh Lithium-ion ,MediaTek (MT6768) Octa Core 
+174,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+175,Tecno,Camon 15,Fascinating Purple,"11,499","12,499",4 GB,64GB,16.64 cm ,5000 mAh Li-ion Polymer ,Helio P22 MT6762 
+176,Samsung,Galaxy A21s,Black,"15,999","17,999",4 GB,64GB,16.51 cm ,5000 mAh Lithium-ion ,Exynos 850 Octa Core 
+177,OPPO,Reno4 Pro Special Edition,Starry Night,"34,990","37,990",8 GB,128GB,16.51 cm ,4000 mAh Lithium-ion Polymer ,Qualcomm Snapdragon 720G Octa Core 
+178,Samsung,Galaxy A21s,Blue,"15,999","17,999",4 GB,64GB,16.51 cm ,5000 mAh Lithium-ion ,Exynos 850 Octa Core 
+179,Redmi,Note 8,Neptune Blue,"13,999","13,999",4 GB, 64 GB,16.0 cm ,4000 mAh ,
+180,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+181,Vivo,V19,Mystic Silver,"24,990","30,990",8 GB,128GB,16.36 cm ,4500 mAh Lithium-ion ,Qualcomm Snapdragon 712 AIE 
+182,Vivo,V19,Piano Black,"24,990","30,990",8 GB,128GB,16.36 cm ,4500 mAh Lithium-ion ,Qualcomm Snapdragon 712 AIE 
+183,Vivo,V19,Mystic Silver,"27,990","34,990",8 GB,256GB,16.36 cm ,4500 mAh Lithium-ion ,Qualcomm Snapdragon 712 AIE 
+184,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+185,OPPO,Reno 10x Zoom,Ocean Green,"41,990","55,990",8 GB,256GB,16.76 cm ,4065 mAh ,Qualcomm Snapdragon 855 Octa Core 2.8 GHz 
+186,iQOO,3,Tornado Black,"34,990","37,990",8 GB, 128 GB,16.36 cm ,4440 mAh Li-ion ,Qualcomm Snapdragon 865 
+187,iQOO,3,Quantum Silver,"34,990","37,990",8 GB, 128 GB,16.36 cm ,4440 mAh Li-ion ,Qualcomm Snapdragon 865 
+188,Realme,X2 Pro,Lunar White,"32,999","35,999",12 GB, 256 GB,16.51 cm ,4000 mAh ,Qualcomm Snapdragon 855 Plus 
+189,Realme,X2 Pro,Lunar White,"29,999","29,999",6 GB, 64 GB,16.51 cm ,4000 mAh ,Qualcomm Snapdragon 855 Plus 
+190,I,Kall K700,Green,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+191,Realme,X3,Glacier Blue,"25,999","27,999",8 GB, 128 GB,16.69 cm ,4200 mAh ,Qualcomm Snapdragon 855+ 
+192,OPPO,F15,Unicorn White,"16,990","20,990",4 GB,128GB,16.26 cm ,4000 mAh ,MediaTek Helio P70 
+193,Realme,X,Space Blue,"20,999","20,999",8 GB, 128 GB,16.59 cm ,3765 mAh ,Qualcomm Snapdragon 710 Octa Core 2.2 GHz AIE 
+194,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+195,Realme,X,Space Blue,"17,999","17,999",4 GB, 128 GB,16.59 cm ,3765 mAh ,Qualcomm Snapdragon 710 Octa Core 2.2 GHz AIE 
+196,OPPO,A9 2020,Vanilla Mint,"20,490","20,490",8 GB, 128 GB,16.56 cm ,5000 mAh ,Qualcomm SM6125 
+197,Redmi,Note 9 Pro Max,Interstellar Black,"20,999","20,999",6 GB,128GB,16.94 cm ,5020 mAh ,Qualcomm Snapdragon 720G 
+198,Samsung,Galaxy A21s,White,"15,999","17,999",4 GB,64GB,16.51 cm ,5000 mAh Lithium-ion ,Exynos 850 Octa Core 
+199,Realme,X3 SuperZoom,Glacier Blue,"32,999","34,999",12 GB, 256 GB,16.69 cm ,4200 mAh ,Qualcomm Snapdragon 855+ 
+200,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+201,Realme,X3 SuperZoom,Arctic White,"32,999","34,999",12 GB, 256 GB,16.69 cm ,4200 mAh ,Qualcomm Snapdragon 855+ 
+202,Samsung,Galaxy M11,Metallic Blue,"12,849","12,849",3 GB,32GB,16.26 cm ,5000 mAh Lithium-ion ,Qualcomm Snapdragon (SDM450-F01) Octa Core 
+203,LG,W10,Smokey Gray,"9,995","9,995",3 GB,32GB,15.72 cm ,4000 mAh ,Helio P22 
+204,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+205,Redmi,8A Dual,Sky White,"9,378","9,999",3 GB, 64 GB,15.8 cm ,5000 mAh ,Snapdragon 439  
+206,Apple,iPhone SE,Black,"51,999","58,300",, 256 GB,11.94 cm ,,A13 Bionic Chip with 3rd Gen Neural Engine 
+207,Samsung,Galaxy M11,Black,"11,897","12,910",3 GB,32GB,16.26 cm ,5000 mAh Lithium-ion ,Qualcomm Snapdragon (SDM450-F01) Octa Core 
+208,Vivo,X50,Frost Blue,"37,990","44,990",8 GB, 256 GB,16.66 cm ,4200 mAh Lithium-ion ,Qualcomm Snapdragon 730 
+209,Redmi,Note 8,Neptune Blue,"15,990","15,990",6 GB, 128 GB,16.0 cm ,4000 mAh ,
+210,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+211,Redmi,Note 8,Moonlight White,"15,990","15,990",6 GB, 128 GB,16.0 cm ,4000 mAh ,
+212,Redmi,Note 8,Space Black,"13,999","13,999",4 GB, 64 GB,16.0 cm ,4000 mAh ,
+213,OPPO,A11K,Flowing Silver,"8,990","10,990",2 GB,32GB,15.8 cm ,4230 mAh Li-polymer ,MT6765V/CB Octa Core 
+214,I,Kall K700,Green,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+215,Samsung,Galaxy M21,Midnight Blue,"17,887","17,887",6 GB,128GB,16.26 cm ,6000 mAh , Exynos 9611-Octa Core processor 
+216,Samsung,Galaxy M31,Ocean Blue,"18,989","18,989",6 GB,64GB,16.26 cm ,6000 mAh ,Samsung Exynos 9 Octa 9611 
+217,Realme,X,Polar White,"20,999","20,999",8 GB, 128 GB,16.59 cm ,3765 mAh ,Qualcomm Snapdragon 710 Octa Core 2.2 GHz AIE 
+218,Vivo,S1,Skyline Blue,"16,990","19,990",4 GB,128GB,16.21 cm ,4500 mAh Lithium Polymer ,Helio P65 (MT6768) 
+219,Samsung,Galaxy M30S,Blue,"17,999","17,999",4 GB,128GB,16.26 cm ,6000 mAh ,
+220,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+221,Realme,XT,Pearl Blue,"16,999","16,999",4 GB,64GB,16.26 cm ,4000 mAh ,Qualcomm 712 
+222,Honor,9X,Midnight Black,"16,999","19,999",6 GB,128GB,16.74 cm ,4000 mAh Lithium Polymer ,Kirin 710F 
+223,Nokia,2.3,Sand,"8,999","8,999",2 GB,32GB,15.75 cm ,4000 mAh ,MediaTek Helio A22 
+224,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+225,Nokia,2.3,Charcoal,"9,098","9,099",2 GB,32GB,15.75 cm ,4000 mAh ,MediaTek Helio A22 
+226,Redmi,Note 9 Pro,Aurora Blue,"16,999","16,999",4 GB,64GB,16.94 cm ,5020 mAh ,Qualcomm® Snapdragon™ 720G 
+227,Vivo,X50,Glaze Black,"34,990","39,990",8 GB, 128 GB,16.66 cm ,4200 mAh Lithium-ion ,Qualcomm Snapdragon 730 
+228,Tecno,Camon 15 Pro,Ice Jadite,"16,450","16,450",6 GB,128GB,16.59 cm ,4000 mAh Li-ion Polymer ,Helio P35 MT6765 
+229,Redmi,Note 6 Pro,Blue,"13,990","13,990",6 GB,64GB,15.9 cm ,4000 mAh Li-polymer ,Qualcomm Snapdragon 636 
+230,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+231,Samsung,Galaxy A21s,Black,"17,499","19,999",6 GB,64GB,16.51 cm ,5000 mAh Lithium-ion ,Exynos 850 Octa Core 
+232,Vivo,X50 Pro,Alpha Grey,"49,990","54,990",8 GB, 256 GB,16.66 cm ,4315 mAh Lithium-ion ,Qualcomm Snapdragon 765G 
+233,Samsung,Galaxy A21s,Blue,"17,499","19,999",6 GB,64GB,16.51 cm ,5000 mAh Lithium-ion ,Exynos 850 Octa Core 
+234,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+235,iQOO,3,5G) ,"44,990","46,990",12 GB,5G) ,16.36 cm ,4440 mAh Li-ion ,Qualcomm Snapdragon 865 
+236,Apple,iPhone SE,Red,"51,999","58,300",, 256 GB,11.94 cm ,,A13 Bionic Chip with 3rd Gen Neural Engine 
+237,Vivo,Y90,Gold,"7,990","7,990",2 GB,16GB,15.8 cm ,4030 mAh Li-ion ,MediaTek Helio A22 
+238,Vivo,Y91i,fusion black,"8,090","8,090",2 GB,32GB,15.8 cm ,4030 mAh ,MTK Helio P22 
+239,Apple,iPhone 6,Gold,"29,999","29,999",, 32 GB,11.94 cm ,,
+240,I,Kall K700,Green,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+241,Apple,iPhone SE,White,"51,999","58,300",, 256 GB,11.94 cm ,,A13 Bionic Chip with 3rd Gen Neural Engine 
+242,Vivo,Y12,BURGUNDY RED,"11,499","12,699",3 GB, 64 GB,16.0 cm ,5000 mAh ,
+243,Samsung,Galaxy A51,Prism Crush Blue,"25,999","29,999",8 GB,128GB,16.26 cm ,4000 mAh Lithium-ion ,Exynos 9611 
+244,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+245,Realme,X3 SuperZoom,Glacier Blue,"27,999","29,999",8 GB, 128 GB,16.69 cm ,4200 mAh ,Qualcomm Snapdragon 855+ 
+246,OPPO,A9 2020,Vanilla Mint,"19,250","19,250",4 GB, 128 GB,16.56 cm ,5000 mAh ,Qualcomm SM6125 
+247,Samsung,Galaxy S10 Lite,Prism Black,"42,999","43,999",8 GB,128GB,17.02 cm ,4500 mAh Lithium-ion ,Qualcomm Snapdragon 855 (SM8150) 
+248,Panasonic,ELUGA I6,Black,"6,490","10,990",2 GB,16GB,13.84 cm ,3000 mAh ,MediaTek 
+249,Redmi,Note 5 Pro,Gold,"12,999","14,999",4 GB,64GB,15.21 cm ,4000 mAh Li Polymer ,Qualcomm Snapdragon 636 
+250,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+251,Samsung,Galaxy A71,Prism Crush Blue,"30,999","34,999",8 GB,128GB,17.02 cm ,4500 mAh Lithium-ion ,Qualcomm SM7150 
+252,Samsung,Galaxy Note10 Lite,Aura Black,"39,999","45,000",8 GB,128GB,17.02 cm ,4500 mAh Lithium-ion ,Exynos 9810 
+253,Redmi,Note 6 Pro,Red,"13,990","13,990",6 GB,64GB,15.9 cm ,4000 mAh Li-polymer ,Qualcomm Snapdragon 636 
+254,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+255,POCO,F1,Steel Blue,"22,999","30,999",8 GB,256GB,15.7 cm ,4000 mAh Li-polymer ,Qualcomm Snapdragon 845 
+256,Samsung,M01 core,Black,"7,617","7,617",2 GB,32GB,13.46 cm ,3000 mAh ,MediaTek | MT6739WW quad core  
+257,Samsung,M01 core,Blue,"7,614","7,614",2 GB,32GB,13.46 cm ,3000 mAh ,MediaTek | MT6739WW quad core  
+258,Honor,9X,Midnight Black,"15,999","15,999",4 GB,128GB,16.74 cm ,4000 mAh Lithium Polymer ,Kirin 710F 
+259,Samsung,Galaxy S10 Lite,Prism White,"42,999","43,999",8 GB,128GB,17.02 cm ,4500 mAh Lithium-ion ,Qualcomm Snapdragon 855 (SM8150) 
+260,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+261,Samsung,Galaxy Note10 Lite,Aura Glow,"39,999","45,000",8 GB,128GB,17.02 cm ,4500 mAh Lithium-ion ,Exynos 9810 
+262,Samsung,Galaxy J2 Core,Gold,"6,299","6,999",1 GB,16GB,12.7 cm ,2600 mAh Lithium-ion ,Qualcomm MSM8917 
+263,Vivo,Y90,Black,"7,990","7,990",2 GB,16GB,15.8 cm ,4030 mAh Li-ion ,MediaTek Helio A22 
+264,I,Kall K700,Green,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+265,Apple,iPhone 11,White,"73,600","73,600",, 128 GB,15.49 cm ,,A13 Bionic Chip 
+266,Samsung,Galaxy M30,Gradation Blue,"16,490","16,490",4 GB, 64 GB,16.26 cm ,5000 mAh ,
+267,Samsung,Galaxy A50s,Prism Crush White,"22,990","24,900",4 GB, 128 GB,16.26 cm ,4000 mAh Li-ion ,Exynos 9611 
+268,OPPO,K1,Piano Black,"13,990","20,990",6 GB,64GB,16.28 cm ,3600 mAh ,Qualcomm Snapdragon 660 Octa Core 1.95 GHz 
+269,Apple,iPhone 11,Black,"73,600","73,600",, 128 GB,15.49 cm ,,A13 Bionic Chip 
+270,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+271,Vivo,Y91i,Black,"9,970","10,199",3 GB, 32 GB,15.8 cm ,4030 mAh ,
+272,Apple,iPhone 11,White,"68,300","68,300",, 64 GB,15.49 cm ,,A13 Bionic Chip 
+273,Realme,XT,Pearl White,"16,999","16,999",4 GB,64GB,16.26 cm ,4000 mAh ,Qualcomm 712 
+274,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+275,Apple,iPhone 7 Plus,Rose Gold,"45,900","45,900",, 128 GB,13.97 cm ,,Apple A10 Fusion 64-bit 
+276,Samsung,Galaxy M11,Metallic Blue,"13,980","14,695",4 GB,64GB,16.26 cm ,5000 mAh Lithium-ion ,Qualcomm Snapdragon (SDM450-F01) Octa Core 
+277,Honor,9X,Sapphire Blue,"16,999","19,999",6 GB,128GB,16.74 cm ,4000 mAh Lithium Polymer ,Kirin 710F 
+278,Honor,9X,Sapphire Blue,"15,999","15,999",4 GB,128GB,16.74 cm ,4000 mAh Lithium Polymer ,Kirin 710F 
+279,Samsung,Galaxy M11,Violet,"13,975","14,330",4 GB,64GB,16.26 cm ,5000 mAh Lithium-ion ,Qualcomm Snapdragon (SDM450-F01) Octa Core 
+280,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+281,Nokia,2.3,Cyan Green,"9,688","9,688",2 GB,32GB,15.75 cm ,4000 mAh ,MediaTek Helio A22 
+282,Redmi,Y2,Gold,"11,990","11,990",4 GB,64GB,15.21 cm ,3080 mAh Li Polymer ,Qualcomm Snapdragon 625 
+283,Vivo,NEX,Black,"23,990","39,990",8 GB, 128 GB,16.74 cm ,4000 mAh ,Qualcomm Snapdragon 845 
+284,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+285,Vivo,X50,Frost Blue,"34,990","39,990",8 GB, 128 GB,16.66 cm ,4200 mAh Lithium-ion ,Qualcomm Snapdragon 730 
+286,Mi,10,Coral Green,"47,990","49,875",8 GB, 128 GB,16.94 cm ,4780 mAh ,Qualcomm Snapdragon 865 
+287,Huawei,Y9 Prime 2019,Sapphire Blue,"16,899","19,990",4 GB, 128 GB,16.74 cm ,4000 mAh ,HiSilicon Kirin 710F AI Chipset with Dual-NPU 
+288,Redmi,Y3,Prime Black,"11,788","11,788",3 GB,32GB,15.9 cm ,4000 mAh ,Qualcomm Snapdragon 632 
+289,OPPO,K1,Piano Black,"14,990","18,990",4 GB,64GB,16.28 cm ,3600 mAh ,Qualcomm Snapdragon 660 Octa Core 1.95 GHz 
+290,Redmi,Note 6 Pro,Rose Gold,"14,950","14,950",6 GB,64GB,15.9 cm ,4000 mAh Li-polymer ,Qualcomm Snapdragon 636 
+291,Nokia,3.2,Black,"9,962","10,490",3 GB, 32 GB,15.9 cm ,4000 mAh ,Qualcomm SDM429 Snapdragon 429 
+292,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+293,LG,Q60,Blue,"13,298","13,999",3 GB, 64 GB,15.9 cm ,3500 mAh ,
+294,Mi,A2,Lake Blue,"16,899","20,500",6 GB, 128 GB,15.21 cm ,3010 mAh ,Qualcomm Snapdragon 660 AIE 
+295,Apple,iPhone 11,Red,"68,300","68,300",, 64 GB,15.49 cm ,,A13 Bionic Chip 
+296,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+297,Huawei,P30 Lite,Peacock Blue,"19,999","25,990",6 GB, 128 GB,15.62 cm ,3340 mAh Yes ,Kirin 710 
+298,Realme,XT,Pearl Blue,"17,999","17,999",6 GB,64GB,16.26 cm ,4000 mAh ,Qualcomm 712 
+299,Redmi,Y2,Dark Grey,"11,850","11,990",4 GB,64GB,15.21 cm ,3080 mAh Li Polymer ,Qualcomm Snapdragon 625 
+300,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+301,OnePlus,7T Pro,Haze Blue,"45,990","47,450",8 GB, 256 GB,16.94 cm ,4085 mAh ,"Qualcomm® Snapdragon™ 855 Plus (Octa-core, 7nm, up to 2.96 GHz) , with Qualcomm AI Engine "
+302,Vivo,S1,Diamond Black,"19,990","22,990",6 GB,128GB,16.21 cm ,4500 mAh Lithium Polymer ,Helio P65 (MT6768) 
+303,Vivo,S1,Skyline Blue,"18,990","20,990",6 GB,64GB,16.21 cm ,4500 mAh Lithium Polymer ,Helio P65 (MT6768) 
+304,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+305,Samsung,M01 core,Black,"6,989","6,989",1 GB,16GB,13.46 cm ,3000 mAh ,MediaTek | MT6739WW quad core  
+306,OnePlus,7T,Glacier Blue,"36,450","37,970",8 GB, 128 GB,16.64 cm ,3800 mAh ,Qualcomm® Snapdragon™ 855 Plus 
+307,OnePlus,7T,Frosted Silver,"36,570","36,570",8 GB, 128 GB,16.64 cm ,3800 mAh ,Qualcomm® Snapdragon™ 855 Plus 
+308,I,Kall K700,Green,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+309,Motorola,Edge+,Smoky Sangria,"74,999","89,999",12 GB, 256 GB,17.02 cm ,5000 mAh Lithium-ion ,Qualcomm Snapdragon 865 
+310,Honor,20,Midnight Black,"22,999","35,999",6 GB, 128 GB,15.9 cm ,3750 mAh ,HiSilicon Kirin 980 
+311,Apple,iPhone 11,Purple,"68,300","68,300",, 64 GB,15.49 cm ,,A13 Bionic Chip 
+312,I,Kall K200,Golden,"4,899","4,999",2 GB, 16 GB,13.97 cm ,2500 mAh ,
+313,Samsung,Galaxy Note 20 Ultra 5G,Mystic Black,"1,04,999","1,16,000",12 GB,256GB,17.53 cm ,4500 mAh Lithium-ion ,Exynos Octa Core 
+314,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+315,XOLO,ERA 3X,Posh Black,"8,499","8,499",3 GB,16GB,12.7 cm ,3000 mAh ,Mediatek MTK 6737 Quad Core 1.25 GHz 
+316,Vivo,V17,Midnight Ocean Black,"24,990","27,990",8 GB,128GB,16.36 cm ,4500 mAh Li-ion ,Qualcomm Snapdragon 675AIE 
+317,Motorola,One Fusion+,Moonlight White,"17,499","19,999",6 GB,128GB,16.51 cm ,5000 mAh Lithium Polymer ,Qualcomm Snapdragon 730G 
+318,LG,G8X,Black,"54,990","54,990",6 GB,128GB,16.26 cm ,4000 mAh ,Qualcomm Snapdragon™ 855 Octa-core (up to 2.84 GHz x 1 + 2.42 GHz x 3 + 1.79 GHz x 4) 
+319,OPPO,Reno 10x Zoom,Ocean Green,"38,888","38,888",6 GB,128GB,16.76 cm ,4065 mAh ,Qualcomm Snapdragon 855 Octa Core 2.8 GHz 
+320,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+321,Gome,U7,Blue,"9,998","9,998",6 GB,128GB,15.21 cm ,3100 mAh ,
+322,Apple,iPhone 11,Red,"73,600","73,600",, 128 GB,15.49 cm ,,A13 Bionic Chip 
+323,Google,Pixel 3a,Clearly White,"30,999","39,999",4 GB, 64 GB,14.22 cm ,3000 mAh ,Qualcomm Snapdragon 670 
+324,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+325,OnePlus,7T,Glacier Blue,"38,775","38,775",8 GB, 256 GB,16.64 cm ,3800 mAh ,Qualcomm® Snapdragon™ 855 Plus 
+326,Honor,20,Sapphire Blue,"22,999","35,999",6 GB, 128 GB,15.9 cm ,3750 mAh ,HiSilicon Kirin 980 
+327,Samsung,Galaxy A70s,Prism Crush Red,"26,990","26,990",8 GB,128GB,17.02 cm ,4500 mAh Lithium Ion ,Qualcomm SM6150 
+328,Lenovo,X2-AP,Gold,"17,499","17,499",2 GB, 32 GB,12.7 cm ,2300 mAh Li-Polymer ,MediaTek 6595M 
+329,Samsung,Galaxy Note 20,Mystic Green,"77,999","86,000",8 GB, 256 GB,17.02 cm ,4300 mAh Lithium-ion ,Exynos Octa Core 
+330,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+331,Samsung,Galaxy Note 20,Mystic Bronze,"77,999","86,000",8 GB, 256 GB,17.02 cm ,4300 mAh Lithium-ion ,Exynos Octa Core 
+332,OPPO,Reno2,Luminous Black,"38,990","39,990",8 GB,256GB,16.51 cm ,4000 mAh ,Qualcomm Snapdragon 730G 
+333,Redmi,Note 5 Pro,Gold,"13,999","16,999",6 GB,64GB,15.21 cm ,4000 mAh Li Polymer ,Qualcomm Snapdragon 636 
+334,I,Kall K700,Green,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+335,OPPO,Reno3 Pro,Auroral Blue,"29,990","32,990",8 GB,128GB,16.26 cm ,4025 mAh ,MediaTek Helio P95 
+336,OPPO,Reno3 Pro,Sky White,"29,990","32,990",8 GB,128GB,16.26 cm ,4025 mAh ,MediaTek Helio P95 
+337,OPPO,Reno2,Ocean Blue,"38,990","39,990",8 GB,256GB,16.51 cm ,4000 mAh ,Qualcomm Snapdragon 730G 
+338,OPPO,A5s,Blue,"13,744","13,744",3 GB,32GB,15.75 cm ,4230 mAh ,MTK MT6765 
+339,Alcatel,5V,Spectrum Blue,"9,750","9,790",3 GB, 32 GB,15.75 cm ,4000 mAh ,
+340,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+341,Gome,U7,Black,"10,389","10,389",6 GB,128GB,15.21 cm ,3100 mAh ,
+342,Panasonic,P101,Gold,"6,385","6,385",2 GB,16GB,13.84 cm ,2500 mAh Lithium-ion ,MT6739WA 
+343,Realme,2 Pro,Black Sea,"15,490","17,990",8 GB,128GB,16.0 cm ,3500 mAh Li-ion ,Qualcomm Snapdragon 660 Octa Core 1.95GHz AIE 
+344,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+345,POCO,F1,Rosso Red,"19,999","21,999",6 GB,64GB,15.7 cm ,4000 mAh Li-polymer ,Qualcomm Snapdragon 845 
+346,Vivo,V5 Plus,Gold,"25,990","25,990",4 GB, 64 GB,13.97 cm ,3055 mAh ,Qualcomm Snapdragon 625 64-bit Octa Core 2 GHz 
+347,Samsung,Galaxy M30S,Black,"17,500","17,500",4 GB,128GB,16.26 cm ,6000 mAh ,
+348,Mobiistar,X1 Dual,Black,"9,999","9,999",3 GB, 32 GB,14.48 cm ,3000 mAh ,
+349,Redmi,Y3,Elegant Blue,"12,928","12,928",4 GB,64GB,15.9 cm ,4000 mAh ,Qualcomm Snapdragon 632 
+350,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+351,Gionee,S11 Lite,Gold,"9,999","9,999",4 GB,32GB,14.48 cm ,3030 mAh Lithium-polymer ,Snapdragon 430 Octa-core 
+352,Redmi,Note 7,Ruby Red,"11,490","11,490",3 GB,32GB,16.0 cm ,4000 mAh Li-polymer ,Qualcomm Snapdragon 660 AIE 
+353,POCO,F1,Steel Blue,"18,999","24,999",6 GB,128GB,15.7 cm ,4000 mAh Li-polymer ,Qualcomm Snapdragon 845 
+354,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+355,Lenovo,Z2 Plus,Black,"15,499","15,499",3 GB, 32 GB,12.7 cm ,3500 mAh Li-Ion ,Qualcomm Snapdragon 820 Quad Core 2.15GHz 
+356,Google,Pixel 3a,Just Black,"30,999","39,999",4 GB, 64 GB,14.22 cm ,3000 mAh ,Qualcomm Snapdragon 670 
+357,Nokia,2.3,Cyan Green,"9,627","9,627",2 GB, 32 GB,15.75 cm ,4000 mAh ,MediaTek Helio A22 
+358,OnePlus,7,Red,"37,850","37,850",8 GB, 256 GB,16.28 cm ,3700 mAh ,
+359,Alcatel,1,Metallic Black,"4,999","4,999",1 GB, 8 GB,12.7 cm ,2000 mAh ,
+360,I,Kall K700,Green,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+361,Samsung,Galaxy A70s,Prism Crush Red,"25,499","25,499",6 GB,128GB,17.02 cm ,4500 mAh Lithium Ion ,Qualcomm SM6150 
+362,OPPO,A5s,Black,"9,490","12,990",3 GB,32GB,15.75 cm ,4230 mAh ,MTK MT6765 
+363,Samsung,Galaxy S20+,Cosmic Gray,"77,999","83,000",8 GB,128GB,17.02 cm ,4500 mAh Lithium-ion ,Exynos 990 
+364,I,Kall K300 NEW,Black,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+365,Realme,X50 Pro,Rust Red,"41,999","41,999",8 GB, 128 GB,16.36 cm ,4200 mAh ,Qualcomm Snapdragon 865 
+366,OPPO,R17 Pro,Emerald Green,"31,590","49,990",8 GB, 128 GB,16.26 cm ,3700 mAh ,SDM710 
+367,Mi,A2,Red,"16,899","20,500",6 GB, 128 GB,15.21 cm ,3010 mAh ,Qualcomm Snapdragon 660 AIE 
+368,Micromax,Canvas 1 2018,Blue,"7,999","7,999",2 GB,16GB,14.48 cm ,3000 mAh ,
+369,Redmi,7,Lunar Red,"7,999","9,999",2 GB, 32 GB,15.9 cm ,4000 mAh ,
+370,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+371,OPPO,F11,Fluorite Purple,"17,990","23,990",6 GB,128GB,16.59 cm ,4020 mAh ,MTK MT6771V (P70) 
+372,OPPO,F11,Marble Green,"17,990","23,990",6 GB,128GB,16.59 cm ,4020 mAh ,MTK MT6771V (P70) 
+373,Redmi,K20,Glacier Blue,"24,999","24,999",6 GB, 128 GB,16.23 cm ,4000 mAh Li-polymer ,Qualcomm Snapdragon 730 
+374,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+375,OPPO,A5 2020,Mirror Black,"15,990","15,990",4 GB, 64 GB,16.51 cm ,5000 mAh ,Qualcomm Snapdragon 665 
+376,Gionee,S11 Lite,Black,"8,990","8,990",4 GB,32GB,14.48 cm ,3030 mAh Lithium-polymer ,Snapdragon 430 Octa-core 
+377,Redmi,Note 7,Onyx Black,"13,980","13,980",4 GB,64GB,16.0 cm ,4000 mAh Li-polymer ,Qualcomm Snapdragon 660 AIE 
+378,Vivo,V11,Starry Night Black,"24,990","24,990",6 GB,64GB,16.0 cm ,3315 mAh ,MediaTek P60 Octa Core 2.0 GHz 
+379,Samsung,Galaxy M30s,Blue,"15,470","15,470",4 GB,64GB,16.26 cm ,6000 mAh ,Exynos 9611 
+380,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+381,Vivo,V15 Pro,Ruby Red,"21,099","32,990",6 GB,128GB,16.23 cm ,3700 mAh Li-ion ,Qualcomm Snapdragon 675AIE Octa Core 2.0GHz 
+382,Apple,iPhone 8 Plus,PRODUCT)RED ,"44,990","52,990",,PRODUCT)RED ,13.97 cm ,,"A11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor "
+383,Vivo,V17Pro,Midnight Ocean Black,"29,499","32,990",8 GB, 128 GB,16.36 cm ,4100 mAh Li-ion ,Qualcomm Snapdragon 675 AIE 
+384,I,Kall K700,Red,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+385,Vivo,S1,Skyline Blue,"19,979","19,979",6 GB,128GB,16.21 cm ,4500 mAh Lithium Polymer ,Helio P65 (MT6768) 
+386,Vivo,X21,Black,"36,990","36,990",6 GB,128GB,15.95 cm ,3200 mAh Li-ion ,Qualcomm Snapdragon 660 AIE 
+387,Mi,A2,Gold,"15,490","15,490",6 GB, 128 GB,15.21 cm ,3010 mAh ,Qualcomm Snapdragon 660 AIE 
+388,Vivo,V9,Pearl Black ,"23,990","23,990",4 GB,64GB,16.0 cm ,3260 mAh Li-ion ,Qualcomm Snapdragon 626 
+389,OnePlus,7 Pro,Nebula Blue,"45,490","45,490",8 GB, 256 GB,16.94 cm ,4000 mAh ,
+390,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+391,Mobiistar,E1 Selfie,Black,"8,999","8,999",3 GB,32GB,13.84 cm ,3000 mAh ,
+392,Vivo,Y81,Black,"14,599","14,599",4 GB,32GB,15.8 cm ,3260 mAh ,MT6762 (Helio P22) 
+393,Samsung,Galaxy A50,White,"18,999","24,000",6 GB,64GB,16.26 cm ,4000 mAh Lithium-ion ,Exynos 9610 
+394,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+395,Apple,iPhone 8 Plus,Gold,"49,900","49,900",, 64 GB,13.97 cm ,,"A11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor "
+396,Redmi,Y2,Dark Grey,"10,290","10,499",3 GB,32GB,15.21 cm ,3080 mAh Li Polymer ,Qualcomm Snapdragon 625 
+397,Redmi,K20,Carbon Black,"24,999","24,999",6 GB, 128 GB,16.23 cm ,4000 mAh Li-polymer ,Qualcomm Snapdragon 730 
+398,Gionee,A1,Grey,"21,499","21,499",4 GB,64GB,13.97 cm ,4010 mAh Li-Ion Polymer ,MediaTek MT6755 Helio P10 Octa Core 2.0GHz 
+399,Alcatel,5V,Spectrum Black,"9,750","9,790",3 GB, 32 GB,15.75 cm ,4000 mAh ,
+400,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+401,Redmi,K20,Pearl White,"24,999","24,999",6 GB, 128 GB,16.23 cm ,4000 mAh Li-polymer ,Qualcomm Snapdragon 730 
+402,OPPO,Reno,JET BLACK,"29,950","29,950",8 GB, 128 GB,16.26 cm ,3765 mAh ,
+403,Samsung,Galaxy S20+,Cosmic Black,"77,999","83,000",8 GB,128GB,17.02 cm ,4500 mAh Lithium-ion ,Exynos 990 
+404,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+405,OPPO,R17,Neon Purple,"22,999","22,999",8 GB, 128 GB,16.26 cm ,3500 mAh ,
+406,Vivo,V9 Youth,Black,"16,990","19,990",4 GB,32GB,16.0 cm ,3260 mAh Li-ion ,Qualcomm Snapdragon 450 
+407,OPPO,R17,Ambient Blue,"22,999","22,999",8 GB, 128 GB,16.26 cm ,3500 mAh ,
+408,Moto,X,2nd Generation) ,"24,999","24,999",2 GB,2nd Generation) ,13.21 cm ,2300 mAh Li-Ion ,Qualcomm Snapdragon 801 MSM8974-AC 
+409,OPPO,F9 Pro,Twilight Blue,"18,990","25,990",6 GB,64GB,16.0 cm ,3500 mAh Li-polymer ,Mediatek Helio P60 Octacore 2.0 GHz 
+410,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+411,OPPO,A3s,Purple,"8,990","13,990",3 GB,32GB,15.75 cm ,4230 mAh ,Qualcomm Snapdragon 450 
+412,OPPO,A83,Champagne,"9,490","9,990",2 GB,16GB,14.48 cm ,3180 mAh ,MT6763T 
+413,Samsung,Galaxy A70s,Prism Crush White,"28,000","33,100",8 GB,128GB,17.02 cm ,4500 mAh Lithium Ion ,Qualcomm SM6150 
+414,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+415,Nokia,3.2,Black,"9,998","9,998",2 GB,16GB,15.9 cm ,4000 mAh ,Qualcomm Snapdragon 429 
+416,Lenovo,K3 Note,Yellow,"9,999","9,999",2 GB,16GB,13.97 cm ,2900 mAh Li-Ion ,Cortex-A53 (MediaTek MT6752 64-bit 4G LTE) 
+417,Lenovo,K3 Note,White,"9,999","9,999",2 GB,16GB,13.97 cm ,2900 mAh Li-Ion ,ARM Cortex-A53 (MediaTek MT6752 64-bit 4G LTE) Octa Core 1.7GHz 
+418,MI3,,Metallic Grey,"13,999","13,999",2 GB, 16 GB,12.7 cm ,3050 mAh Li-Ion ,qualcomm Qualcomm Snapdragon 800 8274AB Quad Core 2.3GHz 
+419,Honor,10 Lite,Midnight Black,"13,999","13,999",3 GB,32GB,15.77 cm ,3400 mAh Lithium Polymer ,Kirin 710 2.2GHz Octa Core 
+420,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+421,Apple,iPhone 11 Pro Max,Gold,"1,17,100","1,17,100",, 64 GB,16.51 cm ,,A13 Bionic Chip 
+422,Redmi,7,Comet Blue,"7,995","9,999",2 GB, 32 GB,15.9 cm ,4000 mAh ,
+423,Realme,3 Pro,Lightning Purple,"16,999","19,999",6 GB,128GB,16.0 cm ,4045 mAh ,Qualcomm Snapdragon 710 Octa Core 2.2 GHz AIE 
+424,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+425,OPPO,A3s,Purple,"7,490","11,990",2 GB,16GB,15.75 cm ,4230 mAh ,Qualcomm Snapdragon 450 
+426,Apple,iPhone 8,PRODUCT)RED ,"55,999","56,999",,PRODUCT)RED ,11.94 cm ,,"A11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor "
+427,Apple,iPhone 11 Pro,Gold,"1,06,600","1,06,600",, 64 GB,14.73 cm ,,A13 Bionic Chip 
+428,LG,Q7+,Black,"13,999","13,999",4 GB,64GB,13.97 cm ,3000 mAh ,
+429,Apple,iPhone XS,Space Grey,"95,000","95,000",, 64 GB,14.73 cm ,,A12 Bionic Chip 
+430,I,Kall K700,Green,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+431,Nokia,5,Tempered Blue,"11,990","11,990",2 GB,16GB,13.21 cm ,3000 mAh ,Qualcomm Snapdragon 430 
+432,Honor,9x Pro,Midnight Black,"17,999","18,999",6 GB,256GB,16.74 cm ,4000 mAh Li-polymer ,Kirin 810 (7 nm Chipset with NPU) 
+433,Meizu,C9 Pro,Black,"6,990","7,490",3 GB,32GB,13.84 cm ,3000 mAh ,Quad Core 
+434,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+435,Redmi,K20,Flame Red,"24,999","24,999",6 GB, 128 GB,16.23 cm ,4000 mAh Li-polymer ,Qualcomm Snapdragon 730 
+436,Vivo,V11 Pro,Starry Night Black,"28,990","28,990",6 GB,64GB,16.28 cm ,3400 mAh Li-ion ,2.0 GHz Qualcomm Snapdragon 660 AIE 
+437,Motorola,One Vision,Sapphire Gradient,"14,999","22,999",4 GB,128GB,16.0 cm ,3500 mAh ,Samsung Exynos 9609 
+438,Apple,iPhone 11 Pro,Silver,"1,06,600","1,06,600",, 64 GB,14.73 cm ,,A13 Bionic Chip 
+439,Samsung,Galaxy S10,Prism White,"63,400","92,000",8 GB,512GB,15.49 cm ,3400 mAh Lithium-ion ,Exynos 9 9820 
+440,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+441,Honor,9 Lite,Sapphire Blue,"13,999","13,999",3 GB,32GB,14.35 cm ,3000 mAh ,Kirin 659 
+442,Tecno,Camon I Click 2,Midnight Black,"13,500","13,500",4 GB,64GB,15.75 cm ,3750 mAh ,
+443,OPPO,Find X,Bordeaux Red,"60,990","60,990",8 GB, 256 GB,16.26 cm ,3730 mAh Li-polymer ,Snapdragon 845 Octa Core 2.649 GHz 
+444,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+445,Samsung,Galaxy S20 Ultra,Cosmic Black,"97,999","1,03,000",12 GB,128GB,17.53 cm ,5000 mAh Lithium-ion ,Exynos 990 
+446,Samsung,Galaxy M11,Violet,"12,949","12,949",3 GB,32GB,16.26 cm ,5000 mAh Lithium-ion ,Qualcomm Snapdragon (SDM450-F01) Octa Core 
+447,Micromax,Bharat 2 Plus,Black,"3,831","3,831",1 GB, 8 GB,10.16 cm ,1600 mAh ,
+448,Nokia,7.2,Charcoal,"18,099","20,999",6 GB,64GB,16.0 cm ,3500 mAh ,Qualcomm Snapdragon 660 
+449,Apple,iPhone XS Max,Space Grey,"79,699","79,699",, 64 GB,16.51 cm ,,A12 Bionic Chip 
+450,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+451,Samsung,Galaxy S10e,Prism Black,"59,000","59,000",6 GB,128GB,14.73 cm ,3100 mAh Lithium-ion ,Exynos 9 9820 
+452,Samsung,Galaxy S20+,Cloud Blue,"77,999","83,000",8 GB,128GB,17.02 cm ,4500 mAh Lithium-ion ,Exynos 990 
+453,OPPO,A9,Fluorite Purple,"16,490","16,990",4 GB,128GB,16.59 cm ,4020 mAh Li-polymer ,MTK MT6771V (P70) 
+454,I,Kall K700,Green,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+455,Coolpad,Mega 5C,Gold,"6,180","6,180",2 GB, 16 GB,13.84 cm ,2500 mAh ,
+456,Micromax,Canvas 2 Colors A120,Grey,"9,005","9,005",1 GB,4GB,12.7 cm ,2000 mAh ,MT6582 
+457,Apple,iPhone 7,PRODUCT) ,"63,999","74,400",,PRODUCT) ,11.94 cm ,,
+458,Honor,9i,Aurora Blue,"19,999","19,999",4 GB,64GB,14.99 cm ,3340 mAh ,Huawei Kirin 659 Octa Core Clocked up to 2.36 GHz 
+459,Asus,Zenfone 3 Laser,Silver,"19,999","19,999",4 GB,32GB,13.97 cm ,3000 mAh ,Qualcomm Snapdragon 430 64-bit Octa Core 1.4GHz 
+460,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+461,Micromax,BOLT S301 3G Without Charger,Black,"2,525","2,545",512 MB, 4 GB,8.89 cm ,1200 mAh ,
+462,Gionee,Marathon M5 Plus,Champagne Gold,"26,999","26,999",3 GB,64GB,15.24 cm ,5020 mAh Li-Ion Polymer ,Mediatek MT6753 Octa Core 1.3GHz 
+463,Vivo,Y91,Starry Black,"10,950","10,950",3 GB,32GB,15.8 cm ,4030 mAh ,Qualcomm Snapdragon 439 
+464,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+465,Moto,One,White,"14,999","14,999",4 GB,64GB,14.99 cm ,3000 mAh ,Qualcomm Snapdragon 625 
+466,Mi,A3,More Than White,"16,980","16,980",6 GB,128GB,15.44 cm ,4030 mAh ,Qualcomm Snapdragon 665 
+467,Samsung,Galaxy S20 Ultra,Cosmic Gray,"97,999","1,03,000",12 GB,128GB,17.53 cm ,5000 mAh Lithium-ion ,Exynos 990 
+468,LG,Q Stylus,Black,"10,999","20,000",3 GB,32GB,15.75 cm ,3300 mAh ,MediaTek MTK 6750S 1.5 Ghz Octa-core 
+469,Honor,8X,Blue,"19,999","19,999",6 GB,64GB,16.51 cm ,3750 mAh ,2.2 GHz Kirin 710 Octa Core 
+470,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+471,Mi,A2,Blue/Lake Blue,"13,290","13,290",4 GB, 64 GB,15.21 cm ,3010 mAh ,Qualcomm Snapdragon 660 AIE 
+472,Redmi,Note 7,Ruby Red,"14,290","14,290",4 GB,64GB,16.0 cm ,4000 mAh Li-polymer ,Qualcomm Snapdragon 660 AIE 
+473,OPPO,F11 Pro,Aurora Green,"24,990","28,126",6 GB,64GB,16.51 cm ,4000 mAh Li-polymer ,MediaTek Helio P70 Octa Core 2.1 GHz 
+474,I,Kall K700,Green,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+475,OPPO,F11 Pro,Thunder Black,"20,990","28,990",6 GB,64GB,16.51 cm ,4000 mAh Li-polymer ,MediaTek Helio P70 Octa Core 2.1 GHz 
+476,Redmi,Note 5 Pro,Red,"15,999","15,999",6 GB,64GB,15.21 cm ,4000 mAh Li Polymer ,Qualcomm Snapdragon 636 
+477,Huawei,P9,Titanium Grey,"39,999","39,999",3 GB,32GB,13.21 cm ,3000 mAh ,HUAWEI Kirin 955 ARM Cortex-A72 64-bit + ARM Cortex-A53 64-bit 
+478,Huawei,P9,Mystic Silver,"39,999","39,999",3 GB,32GB,13.21 cm ,3000 mAh ,HUAWEI Kirin 955 ARM Cortex-A72 64-bit + ARM Cortex-A53 64-bit 
+479,Tecno,Camon i4,Nebula Black,"7,599","7,599",2 GB,32GB,15.75 cm ,3500 mAh ,
+480,I,Kall K200,Golden,"4,899","4,999",2 GB, 16 GB,13.97 cm ,2500 mAh ,
+481,Ringme,ME 10 Pro,Blue,"5,499","5,499",2 GB,16GB,15.21 cm ,2800 mAh ,Quad Core 
+482,Apple,iPhone XS,Silver,"99,990","1,19,900",, 512 GB,14.73 cm ,,A12 Bionic Chip 
+483,Vivo,V7+,Gold,"22,221","22,221",4 GB,64GB,15.21 cm ,3225 mAh Li-ion ,Qualcomm Snapdragon 450 Octa Core 1.8 GHz 
+484,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+485,Tecno,Camon i Click,Midnight Black,"12,599","12,599",4 GB, 64 GB,15.24 cm ,3750 mAh ,
+486,Realme,C2,Diamond Blue,"6,499","6,999",2 GB,16GB,15.49 cm ,4000 mAh ,MediaTek P22 Octa Core 2.0 GHz 
+487,Mi,x 2,Black,"14,999","37,999",6 GB, 128 GB,15.21 cm ,3400 mAh Li-polymer ,Qualcomm Snapdragon 835 Octa Core 2.5 GHz 
+488,Samsung,Galaxy S9,Midnight Black,"65,900","65,900",4 GB,256GB,14.73 cm ,3000 mAh ,Exynos 9810 
+489,Redmi,K20,Carbon Black,"21,999","22,999",6 GB, 64 GB,16.23 cm ,4000 mAh Li-polymer ,Qualcomm Snapdragon 730 
+490,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+491,Lenovo,K10 Note,Black,"13,999","13,999",4 GB,64GB,16.0 cm ,4050 mAh Lithium Ion ,Qualcomm SDM710 
+492,Tecno,Spark 5 Pro,Seabed Blue,"11,499","11,499",4 GB, 64 GB,16.76 cm ,5000 mAh ,
+493,Apple,iPhone 8 Plus,Space Grey,"84,900","84,900",, 256 GB,13.97 cm ,,"A11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor "
+494,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+495,Samsung,Galaxy M01,Red,"9,889","9,999",3 GB,32GB,14.48 cm ,4000 mAh Lithium-ion ,Qualcomm Snapdragon (SDM439) Octa Core 
+496,OPPO,Reno2 Z,Sky White,"28,990","28,990",8 GB,256GB,16.51 cm ,4000 mAh ,MediaTek Helio P90 SoC 
+497,XOLO,Omega 5.0,Black,"8,990","8,990",1 GB,8GB,12.7 cm ,2100 mAh Li-Ion ,MTK 6592M 
+498,Vivo,S1,Diamond Black,"18,999","20,999",6 GB,64GB,16.21 cm ,4500 mAh Lithium Polymer ,Helio P65 (MT6768) 
+499,Honor,6 Plus,Black,"26,499","26,499",3 GB,32GB,13.97 cm ,3600 mAh ,Hisilicon Kirin 925 Cortex-A15 + Cortex-A7 
+500,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+501,LG,G Pro 2,Titan,"42,021","42,021",3 GB,16GB,14.99 cm ,3200 mAh ,Qualcomm MSM8974 Snapdragon 800 Krait 400 
+502,Samsung,Galaxy Core Prime,White,"7,990","7,990",1 GB,8GB,11.43 cm ,2000 mAh Li-Ion ,1.2 GHz Quad Core Processor 
+503,Samsung,Galaxy S10 Lite,Prism Black,"47,999","51,000",8 GB,512GB,17.02 cm ,4500 mAh Lithium-ion ,Qualcomm Snapdragon 855 (SM8150) 
+504,I,Kall K700,Green,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+505,Vivo,Y93,Nebula Purple,"11,990","11,990",3 GB,64GB,15.8 cm ,4030 mAh Li-ion ,MediaTek Helio P22 
+506,Honor,9x Pro,Phantom Purple,"17,999","18,999",6 GB,256GB,16.74 cm ,4000 mAh Li-polymer ,Kirin 810 (7 nm Chipset with NPU) 
+507,Honor,Holly,Black/White,"5,999","5,999",1 GB,16GB,12.7 cm ,2000 mAh Li-Polymer ,MT6582 
+508,Infinix,Note 5 Stylus,Charcoal Blue,"10,999","16,999",4 GB,64GB,15.06 cm ,4000 mAh Li-ion Polymer ,Mediatek Helio P23 Octa-core 
+509,Samsung,Galaxy A6,Gold,"25,500","25,500",4 GB, 64 GB,14.22 cm ,3000 mAh ,
+510,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+511,Itel,A25,Gradation Purple,"5,090","5,090",1 GB,16GB,12.7 cm ,3020 mAh ,Cortex A53 architecture (Quad core) 
+512,I,Kall K300 NEW,Blue,"7,999","7,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+513,Panasonic,Eluga Ray 550,Gold,"5,950","5,950",3 GB,32GB,14.48 cm ,3250 mAh Lithium-ion ,Mediatek MTK 6737H Quad Core 
+514,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+515,Samsung,Galaxy S8 Plus,Orchid Grey,"53,990","53,990",4 GB,64GB,15.75 cm ,3500 mAh ,8895 
+516,Celkon,Cliq 2,Black&Grey,"8,110","8,110",3 GB,32GB,12.7 cm ,3000 mAh ,CORTEX A53 
+517,Redmi,Note 7,Sapphire Blue,"12,990","12,990",3 GB,32GB,16.0 cm ,4000 mAh Li-polymer ,Qualcomm Snapdragon 660 AIE 
+518,Honor,Play,Midnight Black,"25,999","25,999",6 GB, 64 GB,16.0 cm ,3750 mAh ,Kirin 970 AI 
+519,Nokia,3.2,Steel,"10,968","11,442",3 GB,32GB,15.9 cm ,4000 mAh ,Qualcomm Snapdragon 429 
+520,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+521,Redmi,Note 6 Pro,Red,"12,990","12,990",4 GB,64GB,15.9 cm ,4000 mAh Li-polymer ,Qualcomm Snapdragon 636 
+522,Vivo,V17Pro,Glacier Ice White,"31,990","31,990",8 GB, 128 GB,16.36 cm ,4100 mAh Li-ion ,Qualcomm Snapdragon 675 AIE 
+523,Redmi,Note 6 Pro,Black,"12,990","12,990",4 GB,64GB,15.9 cm ,4000 mAh Li-polymer ,Qualcomm Snapdragon 636 
+524,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+525,Tecno,Camon i4,Midnight Black,"12,899","13,899",4 GB,64GB,15.75 cm ,3500 mAh ,
+526,Asus,Zenfone 5 A501CG,Gold,"8,499","8,499",2 GB,8GB,12.7 cm ,2110 mAh Lithium ,Intel Atom Z2560 Processor with Intel Hyper Threading Technology 
+527,Redmi,Note 4,Dark Grey,"12,899","12,899",4 GB,64GB,13.97 cm ,4100 mAh Li-Polymer ,Qualcomm Snapdragon 625 64-bit Octa Core 2GHz 
+528,OPPO,A7,Glaring Gold,"18,949","18,949",4 GB,64GB,15.75 cm ,4230 mAh ,Qualcomm Snapdragon 450 
+529,Vivo,Y17,Mystic Purple,"13,900","18,990",4 GB,128GB,16.13 cm ,5000 mAh Lithium-ion ,MTK Helio P35 (MT6765) 
+530,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+531,Tecno,Camon i ACE 2,Midnight Blue,"8,200","8,200",2 GB,32GB,13.97 cm ,3050 mAh ,
+532,Huawei,Y9 Prime 2019,Emerald Green,"16,899","19,990",4 GB, 128 GB,16.74 cm ,4000 mAh ,HiSilicon Kirin 710F AI Chipset with Dual-NPU 
+533,OPPO,A7,Glaze Blue,"18,802","18,802",4 GB,64GB,15.75 cm ,4230 mAh ,Qualcomm Snapdragon 450 
+534,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+535,Nokia,6.2,Black,"17,699","17,699",4 GB, 64 GB,16.0 cm ,3500 mAh ,
+536,Vivo,Y91,Nebula Purple,"8,389","10,990",3 GB,32GB,15.8 cm ,4030 mAh ,Qualcomm Snapdragon 439 
+537,LG,Optimus L70,Black,"12,791","12,791",1 GB,4GB,11.43 cm ,2100 mAh Li-Ion ,Snapdragon 
+538,Redmi,Y2,Blue,"10,290","10,499",3 GB,32GB,15.21 cm ,3080 mAh Li Polymer ,Qualcomm Snapdragon 625 
+539,OPPO,Reno 10x Zoom,Jet Black,"41,990","55,990",8 GB,256GB,16.76 cm ,4065 mAh ,Qualcomm Snapdragon 855 Octa Core 2.8 GHz 
+540,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+541,POCO,F1,Armoured Edition,"21,499","21,499",6 GB,128GB,15.7 cm ,4000 mAh Li-polymer ,Qualcomm Snapdragon 845 
+542,Samsung,Galaxy A30s,Prism Crush Violet,"18,990","18,990",4 GB, 128 GB,16.26 cm ,4000 mAh Li-ion ,Exynos 7904 
+543,Redmi,Note 6 Pro,Rose Gold,"12,990","12,990",4 GB,64GB,15.9 cm ,4000 mAh Li-polymer ,Qualcomm Snapdragon 636 
+544,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+545,Redmi,Note 7,Onyx Black,"11,499","11,499",3 GB,32GB,16.0 cm ,4000 mAh Li-polymer ,Qualcomm Snapdragon 660 AIE 
+546,Redmi,Note 7,Sapphire Blue,"14,250","14,250",4 GB,64GB,16.0 cm ,4000 mAh Li-polymer ,Qualcomm Snapdragon 660 AIE 
+547,Vivo,V17,Admiral Blue,"26,299","26,299",8 GB,128GB,16.36 cm ,4500 mAh ,Qualcomm Snapdragon 
+548,I,Kall K200,Red,"4,899","4,999",2 GB, 16 GB,13.97 cm ,2500 mAh ,
+549,Micromax,Bharat 4 Plus,Black,"6,948","6,948",2 GB, 16 GB,12.7 cm ,3000 mAh ,
+550,I,Kall K700,Green,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+551,Tecno,Camon i4,Champagne Gold,"13,399","13,499",4 GB,64GB,15.75 cm ,3500 mAh ,
+552,I,Kall K110,Blue,"4,899","4,899",2 GB, 16 GB,13.97 cm ,2500 mAh ,
+553,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+554,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+555,InFocus,Turbo 5 Plus,Royal Gold,"9,500","9,500",3 GB,32GB,13.97 cm ,4850 mAh ,
+556,I,Kall K700,Red,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+557,I,Kall K700,Green,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+558,Tecno,Camon i ACE 2x,Midnight Black,"8,999","8,999",3 GB,32GB,13.97 cm ,3050 mAh ,
+559,Samsung,Galaxy A6+,Black,"21,990","21,990",4 GB, 64 GB,15.24 cm ,3500 mAh ,
+560,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+561,Apple,iPhone 8 Plus,Space Grey,"49,900","49,900",, 64 GB,13.97 cm ,,"A11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor "
+562,Samsung,Galaxy A70s,Prism Crush White,"25,900","31,000",6 GB,128GB,17.02 cm ,4500 mAh Lithium Ion ,Qualcomm SM6150 
+563,Moto,G,3rd Generation) ,"10,999","10,999",2 GB,16GB,12.7 cm ,2470 mAh ,Qualcomm Snapdragon 410 MSM8916 
+564,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+565,OPPO,A7,Glaze Blue,"16,867","16,867",3 GB,64GB,15.75 cm ,4230 mAh ,Qualcomm Snapdragon 450 
+566,Motorola,Edge+,Thunder Grey,"74,999","89,999",12 GB, 256 GB,17.02 cm ,5000 mAh Lithium-ion ,Qualcomm Snapdragon 865 
+567,Vivo,V9,Gold,"23,989","23,989",4 GB,64GB,16.0 cm ,3260 mAh Li-ion ,Qualcomm Snapdragon 626 
+568,Apple,iPhone 11 Pro Max,Midnight Green,"1,17,100","1,17,100",, 64 GB,16.51 cm ,,A13 Bionic Chip 
+569,Nubia,Red Magic 3,Red,"38,999","38,999",8 GB, 128 GB,16.76 cm ,5000 mAh Li-ion Polymer ,Qualcomm Snapdragon 855 
+570,I,Kall K200,Golden,"4,899","4,999",2 GB, 16 GB,13.97 cm ,2500 mAh ,
+571,Apple,iPhone 11 Pro,Space Grey,"1,06,600","1,06,600",, 64 GB,14.73 cm ,,A13 Bionic Chip 
+572,OPPO,Reno2 Z,Luminous Black,"28,999","28,999",8 GB,256GB,16.51 cm ,4000 mAh ,MediaTek Helio P90 SoC 
+573,OPPO,A3s,Purple,"15,000","15,000",4 GB,64GB,15.75 cm ,4230 mAh ,Qualcomm Snapdragon 450 
+574,I,Kall K400,Blue,"7,299","7,299",4 GB, 64 GB,15.24 cm ,3000 mAh ,
+575,Samsung,Galaxy A30s,Prism Crush Black,"18,890","18,890",4 GB, 128 GB,16.26 cm ,4000 mAh Li-ion ,Exynos 7904 
+576,Vivo,Y17,Mineral Blue,"13,900","18,990",4 GB,128GB,16.13 cm ,5000 mAh Lithium-ion ,MTK Helio P35 (MT6765) 
+577,Tecno,i3 Pro,Black,"9,993","9,999",3 GB,16GB,12.7 cm ,3050 mAh ,Mediatek 
+578,LG,W10 Alpha,Black,"7,999","7,999",3 GB,32GB,14.5 cm ,3450 mAh Lithium Polymer ,SC9863 Octa Core 
+579,Apple,iPhone 11 Pro,Silver,"1,21,300","1,21,300",, 256 GB,14.73 cm ,,A13 Bionic Chip 
+580,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+581,Tecno,Camon i4,Midnight Black,"10,000","10,000",2 GB,32GB,15.75 cm ,3500 mAh ,
+582,Itel,A44 Pro,Black,"6,000","7,199",2 GB, 16 GB,13.84 cm ,2400 mAh ,
+583,Tecno,Camon i ACE 2,Champagne Gold,"8,354","8,354",2 GB,32GB,13.97 cm ,3050 mAh ,
+584,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+585,Yu,reka Black,Chrome Black,"7,634","7,998",4 GB,32GB,12.7 cm ,3000 mAh Polymer ,Qualcomm Snapdragon 430 Octa Core 1.4GHz 
+586,Vivo,V15,Frozen Black,"21,099","26,990",6 GB,64GB,16.59 cm ,4000 mAh Li-ion ,MTK Helio P70 
+587,Samsung,Galaxy J8,Blue,"18,990","18,990",4 GB,64GB,15.24 cm ,3500 mAh ,Qualcomm Snapdragon SDM450 
+588,OPPO,A83,Champagne,"15,000","15,000",3 GB,32GB,14.48 cm ,3180 mAh ,MT6763T 
+589,Samsung,Galaxy A8 Star,Black,"34,999","34,999",6 GB, 64 GB,16.0 cm ,3700 mAh ,
+590,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+591,Gionee,P7 Max,Gold,"13,000","13,000",3 GB,32GB,13.97 cm ,3100 mAh Li-Polymer ,Mediatek MT6595 Octa Core 2.2GHz 
+592,InFocus,M535,Gold,"8,500","10,999",2 GB, 16 GB,13.97 cm ,2600 mAh ,
+593,Vivo,Y81,Gold,"11,500","11,500",3 GB,32GB,15.49 cm ,3260 mAh Li-ion ,MT6762 Octa Core (Helio P22) 
+594,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+595,Realme,1,Diamond Red,"10,299","13,493",4 GB, 64 GB,15.24 cm ,3410 mAh ,
+596,Realme,1,Diamond Black,"11,990","12,990",3 GB, 32 GB,15.24 cm ,3410 mAh ,
+597,Realme,1,Black,"10,990","14,990",4 GB, 64 GB,15.24 cm ,3410 mAh ,
+598,Realme,1,Moonlight Silver,"10,990","14,990",6 GB, 128 GB,15.24 cm ,3410 mAh ,
+599,Realme,1,Diamond Red,"11,900","12,990",3 GB, 32 GB,15.24 cm ,3410 mAh ,
+600,I,Kall K700,Green,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+601,Tecno,Camon i 2x,Gold,"13,499","13,499",4 GB,64GB,15.75 cm ,3750 mAh ,
+602,Samsung,Galaxy J7 Prime,Black,"18,328","18,328",3 GB,16GB,13.97 cm ,3300 mAh ,Exynos 7870 Octa Core 1.6GHz 
+603,Vivo,V15,Aqua Blue,"21,099","26,990",6 GB,64GB,16.59 cm ,4000 mAh Li-ion ,MTK Helio P70 
+604,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+605,Vivo,V9 Youth,Gold,"17,999","17,999",4 GB,32GB,16.0 cm ,3260 mAh Li-ion ,Qualcomm Snapdragon 450 
+606,Samsung,Galaxy S20,Cloud Blue,"70,499","74,000",8 GB,128GB,15.75 cm ,4000 mAh Lithium-ion ,Exynos 990 
+607,Samsung,Galaxy Note 9,Midnight Black,"84,900","84,900",8 GB,512GB,16.26 cm ,4000 mAh Lithium-ion ,
+608,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+609,Vivo,V7,Matte Black,"19,670","19,670",4 GB,32GB,14.48 cm ,3000 mAh Li-ion ,Qualcomm Snapdragon 450 Octa Core 1.8 GHz 
+610,InFocus,Snap 4,Platinum Gold,"6,599","6,599",4 GB,64GB,13.21 cm ,3000 mAh ,
+611,Samsung,Galaxy J5 Prime,Black,"13,500","13,500",3 GB,32GB,12.7 cm ,2400 mAh Li-Ion ,Exynos 7570 Quad Core 1.4GHz 
+612,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+613,Nokia,3.1,Blue/Copper,"9,999","9,999",2 GB, 16 GB,13.21 cm ,2990 mAh ,
+614,Samsung,Galaxy A6+,Gold,"21,990","21,990",4 GB, 64 GB,15.24 cm ,3500 mAh ,
+615,Samsung,Galaxy S20,Cosmic Gray,"70,499","74,000",8 GB,128GB,15.75 cm ,4000 mAh Lithium-ion ,Exynos 990 
+616,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+617,OPPO,A3s,Red,"12,000","12,000",3 GB,32GB,15.75 cm ,4230 mAh ,Qualcomm Snapdragon 450 
+618,Zoom,Me M3,Purple,"7,999","7,999",3 GB, 32 GB,12.7 cm ,2400 mAh ,
+619,OPPO,A83,2018 Edition) ,"19,000","19,000",4 GB,2018 Edition) ,14.48 cm ,3180 mAh ,MT6763T 
+620,I,Kall K700,Green,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+621,Samsung,Galaxy A30s,Prism Crush White,"18,900","18,900",4 GB, 64 GB,16.26 cm ,4000 mAh Li-ion ,Exynos 7904 
+622,Tecno,Camon i 2,AQUA BLUE,"12,333","12,333",3 GB,32GB,15.75 cm ,3750 mAh ,
+623,Tecno,Camon i 2,MIDNIGHT BLACK,"9,999","9,999",3 GB,32GB,15.75 cm ,3750 mAh ,
+624,I,Kall K200,Golden,"4,899","4,999",2 GB, 16 GB,13.97 cm ,2500 mAh ,
+625,Tecno,Camon I Sky 2,Bordeaux Red,"10,000","10,000",2 GB, 16 GB,13.97 cm ,3050 mAh ,
+626,Micromax,Canvas 2,Champagne,"7,949","7,949",3 GB,16GB,12.7 cm ,3050 mAh Li-Polymer ,Mediatek MT6737 Quad Core 1.25GHz 
+627,OPPO,A5s,Red,"12,990","12,990",2 GB,32GB,15.75 cm ,4230 mAh ,MTK MT6765 
+628,I,Kall K7,Green+Blue,"5,499","5,699",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+629,OPPO,A5s,Red,"12,990","12,990",3 GB,32GB,15.75 cm ,4230 mAh ,MTK MT6765 
+630,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+631,InFocus,A1s Fingerprint Sensor,Champagne,"6,500","6,500",1 GB,8GB,12.7 cm ,2200 mAh ,
+632,Samsung,J7 Max,Black,"19,995","19,995",4 GB,32GB,14.48 cm ,3300 mAh ,Mediatek Octa-Core 1.69GHz 
+633,Itel,S42,Black,"8,500","8,500",3 GB, 16 GB,14.35 cm ,3000 mAh ,
+634,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+635,Itel,S42,Rose Gold,"12,933","12,933",3 GB, 16 GB,14.35 cm ,3000 mAh ,
+636,VOTO,V12,Black,"5,999","5,999",2 GB, 16 GB,12.7 cm ,3000 mAh Li-ion ,Spreadtrum 9832 
+637,Karbonn,Platinum P9 Pro,Aurora Blue,"7,658","8,495",3 GB, 32 GB,13.84 cm ,3000 mAh ,
+638,Samsung,Galaxy S10 Plus,Prism Blue,"75,900","75,900",8 GB,128GB,16.26 cm ,4100 mAh Lithium-ion ,Exynos 9 9820 
+639,InFocus,Turbo 5,Glittering Gold,"12,500","12,500",3 GB, 32 GB,13.21 cm ,5000 mAh ,
+640,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+641,Micromax,Canvas Infinity Life,Jet Black,"8,999","8,999",2 GB,16GB,13.84 cm ,2500 mAh ,MediaTek MT6737 Cortex-A53 64-bit 
+642,Mi,10,Twilight Grey,"50,490","59,990",8 GB, 256 GB,16.94 cm ,4780 mAh ,Qualcomm Snapdragon 865 
+643,Samsung,Galaxy A10,Black,"7,990","9,304",2 GB,32GB,15.75 cm ,3400 mAh Lithium-ion ,Exynos 7884 
+644,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+645,Mi,10,Twilight Grey,"49,990","51,990",8 GB, 128 GB,16.94 cm ,4780 mAh ,Qualcomm Snapdragon 865 
+646,Lenovo,Z6 Pro,Black,"26,999","39,999",8 GB,128GB,16.23 cm ,4000 mAh Li-polymer ,Qualcomm SDM855 
+647,Vivo,V15 Pro,Topaz Blue,"28,499","34,990",8 GB,128GB,16.23 cm ,3700 mAh Li-ion ,Qualcomm Snapdragon 675AIE Octa Core 2.0GHz 
+648,Tecno,Camon i4,Aqua Blue,"10,000","10,000",2 GB,32GB,15.75 cm ,3500 mAh ,
+649,Vivo,Y83 Pro,Nebula Purple,"14,500","14,500",4 GB,64GB,15.8 cm ,3260 mAh Li-ion ,Mediatek Helio P22 
+650,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+651,Vivo,Y83 Pro,Gold,"14,500","14,500",4 GB,64GB,15.8 cm ,3260 mAh Li-ion ,Mediatek Helio P22 
+652,OPPO,A5,Diamond Blue,"15,973","15,973",4 GB,64GB,15.75 cm ,4230 mAh Li-ion ,Qualcomm Snapdragon 450 
+653,Itel,S21,Gold,"5,449","5,449",1 GB, 16 GB,12.7 cm ,2700 mAh ,
+654,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+655,Vivo,Y83,Black,"13,950","13,950",4 GB,32GB,15.8 cm ,3260 mAh Li-ion ,Mediatek Helio P22 
+656,Redmi,Y2,Black,"10,290","10,499",3 GB,32GB,15.21 cm ,3080 mAh Li Polymer ,Qualcomm Snapdragon 625 
+657,Realme,X50 Pro,Moss Green,"47,999","47,999",12 GB, 256 GB,16.36 cm ,4200 mAh ,Qualcomm Snapdragon 865 
+658,Realme,X50 Pro,Rust Red,"47,999","47,999",12 GB, 256 GB,16.36 cm ,4200 mAh ,Qualcomm Snapdragon 865 
+659,Realme,X50 Pro,Moss Green,"41,999","41,999",8 GB, 128 GB,16.36 cm ,4200 mAh ,Qualcomm Snapdragon 865 
+660,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+661,Nokia,5,Matte Black,"12,499","12,499",3 GB,16GB,13.21 cm ,3000 mAh ,Qualcomm Snapdragon 430 64-bit Octa Core 1.4 GHz 
+662,I,Kall K4,Sea Blue,"4,799","5,099",2 GB, 16 GB,13.84 cm ,2500 mAh ,
+663,Honor,9N,Purple,"14,500","14,500",4 GB,64GB,14.83 cm ,3000 mAh ,Kirin 659 Octa Core 
+664,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+665,Nokia,3.1,Blue/Copper,"11,500","11,500",3 GB, 32 GB,13.21 cm ,2990 mAh ,
+666,Nokia,3.1,White,"11,500","11,500",3 GB, 32 GB,13.21 cm ,2990 mAh ,
+667,Micromax,Canvas Fire A104,White,"7,499","7,999",1 GB,4GB,11.43 cm ,1900 mAh Li-Ion ,MT6582M 
+668,Huawei,Nova 3i,Black,"18,989","18,989",4 GB, 128 GB,16.0 cm ,3340 mAh ,
+669,Samsung,Galaxy A70,Blue,"28,980","30,990",6 GB,128GB,17.02 cm ,4500 mAh Lithium-ion ,Qualcomm Snapdragron 675 
+670,I,Kall K700,Green,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+671,Nokia,2.1,Grey / Silver,"7,739","7,739",1 GB, 8 GB,13.97 cm ,4000 mAh ,
+672,Samsung,Galaxy On7,Black,"9,977","9,977",1.5 GB,8GB,13.97 cm ,3000 mAh Li-Ion ,Qualcomm Snapdragon 410 Quad Core 1.2GHz 
+673,Panasonic,P101,Blue,"6,858","6,858",2 GB,16GB,13.84 cm ,2500 mAh Lithium-ion ,MT6739WA 
+674,I,Kall K300 NEW,Black,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+675,Moto,C Plus,Pearl White,"6,900","6,900",2 GB,16GB,12.7 cm ,4000 mAh ,Mediatek MTK6737 Quad Core 1.3Ghz 
+676,Vivo,V7+,Energetic Blue,"22,325","22,325",4 GB,64GB,15.21 cm ,3225 mAh Li-ion ,Qualcomm Snapdragon 450 Octa Core 1.8 GHz 
+677,I,Kall K3,Sea Blue,"5,799","5,799",2 GB, 16 GB,15.9 cm ,3000 mAh ,
+678,InFocus,A2,Midnight Black,"5,999","5,999",2 GB,16GB,12.7 cm ,2400 mAh ,
+679,Intex,Aqua Lions T1 Plus,Champagne / Champ,"8,499","8,499",2 GB, 16 GB,12.7 cm ,2400 mAh ,
+680,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+681,Samsung,Galaxy J2 2018,Black,"7,999","7,999",2 GB,16GB,12.7 cm ,2600 mAh ,Snapdragon 425 
+682,I,Kall K1000,Blue,"6,999","7,499",4 GB, 64 GB,15.24 cm ,3000 mAh ,
+683,I,Kall K1000,Green,"6,999","7,299",4 GB, 64 GB,15.24 cm ,3000 mAh ,
+684,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+685,Vivo,Y93,Starry Black,"15,490","15,990",4 GB,32GB,15.8 cm ,4030 mAh Li-ion ,MediaTek Helio P22 
+686,Vivo,Y83,Gold,"11,999","11,999",4 GB,32GB,15.8 cm ,3260 mAh Li-ion ,Mediatek Helio P22 
+687,Samsung,Galaxy A10,Blue,"7,990","9,157",2 GB,32GB,15.75 cm ,3400 mAh Lithium-ion ,Exynos 7884 
+688,Vivo,Y81i,Gold,"11,990","11,990",2 GB,16GB,15.8 cm ,3260 mAh Li-ion ,MediaTek Helio A22 
+689,I,Kall K10,Blue,"6,299","6,299",4 GB, 32 GB,15.21 cm ,3000 mAh ,
+690,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+691,I,Kall K10,Sky Blue,"6,299","6,299",4 GB, 32 GB,15.21 cm ,3000 mAh ,
+692,InFocus,A3,Jet Black,"9,500","9,500",2 GB,16GB,13.21 cm ,3000 mAh ,
+693,I,Kall K200,Golden,"4,899","4,999",2 GB, 16 GB,13.97 cm ,2500 mAh ,
+694,I,Kall K700,Red,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+695,I,Kall K200,Blue,"4,899","4,999",2 GB, 16 GB,13.97 cm ,2500 mAh ,
+696,Karbonn,Frames S9,Grey,"7,777","7,777",2 GB,16GB,13.21 cm ,2900 mAh ,
+697,Tecno,Camon i 2x,Blue,"14,074","14,074",4 GB, 64 GB,15.75 cm ,3750 mAh ,
+698,Apple,iPhone 11 Pro Max,Space Grey,"1,31,900","1,31,900",, 256 GB,16.51 cm ,,A13 Bionic Chip 
+699,Samsung,Galaxy J5 Prime,Gold,"13,500","13,500",3 GB,32GB,12.7 cm ,2400 mAh Li-Ion ,Exynos 7570 Quad Core 1.4GHz 
+700,I,Kall K300 NEW,Black,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+701,Tecno,Camon i 2x,Black,"12,994","12,999",4 GB, 64 GB,15.75 cm ,3750 mAh ,
+702,Tecno,Camon i4,Midnight Black,"12,242","12,250",3 GB,32GB,15.75 cm ,3500 mAh ,
+703,Tecno,Camon i4,Nebula Black,"12,430","12,430",3 GB,32GB,15.75 cm ,3500 mAh ,
+704,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+705,Tecno,Camon i4,Aqua Blue,"11,999","11,999",3 GB,32GB,15.75 cm ,3500 mAh ,
+706,Leagoo,M9 Pro,Blue,"13,999","14,000",2 GB, 16 GB,14.53 cm ,3000 mAh ,
+707,Redmi,Note 5 Pro,Red,"15,495","15,702",4 GB,64GB,15.21 cm ,4000 mAh Li Polymer ,Qualcomm Snapdragon 636 
+708,Gionee,S11 Lite,Dark Blue,"9,590","14,999",4 GB,32GB,14.48 cm ,3030 mAh Lithium-polymer ,Snapdragon 430 Octa-core 
+709,Samsung,Galaxy Note 10,Aura Glow,"75,000","75,000",8 GB, 256 GB,16.0 cm ,3500 mAh ,
+710,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+711,OPPO,A5,Diamond Red,"15,752","15,752",4 GB,64GB,15.75 cm ,4230 mAh Li-ion ,Qualcomm Snapdragon 450 
+712,Redmi,Note 5 Pro,Black,"13,999","16,999",6 GB,64GB,15.21 cm ,4000 mAh Li Polymer ,Qualcomm Snapdragon 636 
+713,Samsung,Galaxy Note 8,Midnight Black,"59,900","59,900",6 GB,64GB,16.0 cm ,3300 mAh ,
+714,I,Kall K700,Red,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+715,Honor,Bee 4G,Gold,"7,999","8,476",1 GB,8GB,12.7 cm ,2200 mAh ,Cortex-A53 
+716,Samsung,Galaxy S10 Plus,Prism Black,"73,900","77,600",8 GB,128GB,16.26 cm ,4100 mAh Lithium-ion ,Exynos 9 9820 
+717,Samsung,Galaxy J7 Pro,Black,"20,995","20,995",3 GB,64GB,13.97 cm ,3600 mAh ,Exynos Octa-Core 1.6GHz 
+718,I,Kall K900,Dark Blue,"6,699","7,349",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+719,I,Kall K900,Sky Blue,"6,699","6,999",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+720,I,Kall K200,Golden,"4,899","4,999",2 GB, 16 GB,13.97 cm ,2500 mAh ,
+721,Samsung,Galaxy J7 Nxt,Black,"11,995","11,995",2 GB,16GB,13.97 cm ,3000 mAh ,Exynos Octa-Core 1.6GHz 
+722,Vivo,Y71,Matte Black,"10,900","10,900",3 GB,16GB,15.24 cm ,3360 mAh Li-ion ,Qualcomm Snapdragon 425 
+723,Vivo,Y71,Gold,"10,900","10,900",3 GB,16GB,15.24 cm ,3360 mAh Li-ion ,Qualcomm Snapdragon 425 
+724,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+725,Vivo,Y71,Gold,"12,000","12,000",4 GB,32GB,15.24 cm ,3360 mAh Li-ion ,Qualcomm Snapdragon 425 
+726,Vivo,Y71,Matte Black,"12,000","12,000",4 GB,32GB,15.24 cm ,3360 mAh Li-ion ,Qualcomm Snapdragon 425 
+727,Vivo,V1,Gold,"18,330","18,330",2 GB, 16 GB,12.7 cm ,2300 mAh ,
+728,Samsung,Galaxy J6,Gold,"14,990","14,990",4 GB,64GB,14.22 cm ,3000 mAh ,Exynos 7870 
+729,Samsung,Galaxy J4,Blue,"13,023","13,023",3 GB,32GB,13.97 cm ,3000 mAh ,Exynos 7570 
+730,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+731,Itel,IT 1520,Black,"8,450","8,450",2 GB, 16 GB,12.7 cm ,2500 mAh ,
+732,Samsung,Galaxy J5 Prime,Black,"14,500","14,500",2 GB,16GB,12.7 cm ,2400 mAh Li-Ion ,Exynos 7570 Quad Core 1.4GHz 
+733,Samsung,Galaxy J2 Core,Blue,"6,190","6,190",1 GB,8GB,12.7 cm ,2600 mAh ,Exynos 7570 
+734,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+735,Samsung,Galaxy A6,Black,"16,990","16,990",4 GB, 64 GB,14.22 cm ,3000 mAh ,
+736,Samsung,Galaxy J6,Black,"14,990","14,990",4 GB,64GB,14.22 cm ,3000 mAh ,Exynos 7870 
+737,Samsung,Galaxy J4,Black,"8,990","8,990",2 GB,16GB,13.97 cm ,3000 mAh ,Exynos 7570 
+738,OPPO,F7,Red,"19,900","27,990",6 GB,128GB,15.82 cm ,3400 mAh ,MTK P60 Octa Core 2.0 GHz 
+739,Samsung,Galaxy A50s,Prism Crush Violet,"24,900","24,900",4 GB, 128 GB,16.26 cm ,4000 mAh Li-ion ,Exynos 9611 
+740,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+741,Gionee,X-1,Gold,"7,499","7,499",2 GB,16GB,12.7 cm ,3000 mAh Li-polymer ,MT6737 
+742,Samsung,Galaxy Note 10,Aura Black,"75,000","75,000",8 GB, 256 GB,16.0 cm ,3500 mAh ,
+743,Samsung,Galaxy J6 Plus,Red,"13,600","13,600",4 GB,64GB,15.24 cm ,3300 mAh ,Qualcomm Snapdragon SD425 
+744,I,Kall K700,Green,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+745,Samsung,Galaxy A6,Blue,"16,990","16,990",4 GB, 64 GB,14.22 cm ,3000 mAh ,
+746,Samsung,Galaxy A20,Deep Blue,"11,490","12,900",3 GB,32GB,16.26 cm ,4000 mAh Lithium-ion ,Exynos 7884B 
+747,I,Kall K 8 New,Green,"4,899","4,899",2 GB, 16 GB,13.97 cm ,2200 mAh ,
+748,Samsung,Galaxy A10,Red,"8,700","8,700",2 GB,32GB,15.75 cm ,3400 mAh Lithium-ion ,Exynos 7884 
+749,OPPO,F9,Mist Black,"17,890","21,990",4 GB,64GB,16.0 cm ,3500 mAh ,Mediatek Helio P60 Octacore 2.0 GHz 
+750,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+751,Samsung,J7 Max,Gold,"11,046","11,046",4 GB,32GB,14.48 cm ,3300 mAh ,Mediatek Octa-Core 1.69GHz 
+752,I,Kall K3,Red,"5,799","5,799",2 GB, 16 GB,15.9 cm ,3000 mAh ,
+753,Vivo,Y71i,Matte Black,"8,900","8,900",2 GB,16GB,15.24 cm ,3360 mAh Li-ion ,Qualcomm Snapdragon 425 
+754,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+755,Apple,iPhone 8 Plus,Gold,"59,990","68,285",, 256 GB,13.97 cm ,,"A11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor "
+756,InFocus,Turbo 5 Plus,Midnight Black,"9,500","9,500",3 GB, 32 GB,13.97 cm ,4850 mAh ,
+757,OPPO,K3,Jade Black,"29,999","30,994",8 GB, 128 GB,16.51 cm ,3765 mAh ,
+758,LG,V30+,Silver,"60,000","60,000",4 GB,128GB,15.24 cm ,3300 mAh ,Qualcomm Snapdragon 835 
+759,LG,V30+,Black,"54,999","54,999",4 GB,128GB,15.24 cm ,3300 mAh ,Qualcomm Snapdragon 835 
+760,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+761,OPPO,K3,Aurora Blue,"23,990","24,667",6 GB, 64 GB,16.51 cm ,3765 mAh ,
+762,OPPO,A37f,Gold,"12,000","12,000",2 GB,16GB,12.7 cm ,2630 mAh ,Qualcomm Snapdragon 410 Quad Core 1.2GHz 
+763,Samsung,Galaxy J4,Gold,"9,500","9,500",2 GB,16GB,13.97 cm ,3000 mAh ,Exynos 7570 
+764,I,Kall K700,Green,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+765,Voto,V2i,Black,"5,999","5,999",2 GB, 32 GB,12.7 cm ,3000 mAh ,Spreadtrum SC9832 Cortex A7 
+766,Samsung,Galaxy J2-2017,Absolute black,"6,000","6,000",1 GB,8GB,11.94 cm ,2000 mAh ,
+767,Samsung,Galaxy J2-2017,Metallic gold,"6,000","6,000",1 GB,8GB,11.94 cm ,2000 mAh ,
+768,Samsung,Galaxy J7 Duo,Black,"17,962","17,962",4 GB,32GB,13.97 cm ,3000 mAh ,Exynos 7884 
+769,I,Kall K220,Blue,"5,499","5,699",2 GB, 16 GB,15.24 cm ,3000 mAh ,
+770,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+771,Tecno,Camon I Ace,Midnight Blue,"7,805","7,805",2 GB, 16 GB,13.84 cm ,3050 mAh ,
+772,Vivo,Y91,Starry Black,"8,990","10,990",2 GB,32GB,15.8 cm ,4030 mAh Li-ion ,Helio P22 (MTK6762R) 
+773,Karbonn,Yuva 2,Black,"6,334","6,334",2 GB,16GB,12.7 cm ,2250 mAh ,
+774,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+775,Honor,Bee 2,Gold,"6,499","6,499",1 GB, 8 GB,11.43 cm ,2100 mAh ,
+776,Wizphone,WP,Black,"5,479","5,499",2 GB, 16 GB,13.97 cm ,2400 mAh ,Snapdragon 
+777,Samsung,Galaxy J2 2018,Gold,"7,500","7,500",2 GB,16GB,12.7 cm ,2600 mAh ,Snapdragon 425 
+778,Samsung,Galaxy M40,Seawater Blue,"21,490","21,490",6 GB, 128 GB,16.0 cm ,3500 mAh ,
+779,Samsung,Galaxy Note 10 Plus,Aura Glow,"85,000","85,000",12 GB,256GB,17.27 cm ,4300 mAh ,
+780,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+781,Gionee,A1,Black,"21,499","21,499",4 GB,64GB,13.97 cm ,4010 mAh Li-Ion Polymer ,MediaTek MT6755 Helio P10 Octa Core 2.0GHz 
+782,LG,Q6,Black,"10,800","10,999",3 GB,32GB,13.97 cm ,3000 mAh Li-ion ,Qualcomm Snapdragon 435 1.4 GHz Octacore 
+783,Vivo,, Y27L WHITE 16GB ) ,"13,760","13,760",1 GB, Y27L WHITE 16GB ) ,11.94 cm ,2260 mAh ,
+784,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+785,Samsung,Galaxy A50s,Prism Crush Violet,"26,957","26,957",6 GB, 128 GB,16.26 cm ,4000 mAh Li-ion ,Exynos 9611 
+786,OPPO,A57,Gold,"13,500","13,500",3 GB,32GB,13.21 cm ,2900 mAh ,Qualcomm Snapdragon 435 Octa Core 1.4GHz 
+787,Samsung,Galaxy J2 Pro,Gold,"10,480","10,480",2 GB,16GB,12.7 cm ,2600 mAh ,Spreadtrum Quad-Core 1.5GHz 
+788,Karbonn,Platinum P9,Stary Black Blue,"7,499","7,850",2 GB, 16 GB,13.84 cm ,2500 mAh ,
+789,I,Kall K400,Blue,"6,999","6,999",4 GB, 64 GB,15.24 cm ,3000 mAh ,
+790,I,Kall K700,Green,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+791,OPPO,A71,Black,"12,500","12,500",3 GB,16GB,13.21 cm ,3000 mAh Lithium ,Mediatek MT6750 Octa Core 1.5 GHz 
+792,OPPO,A71,Gold,"12,500","12,500",3 GB,16GB,13.21 cm ,3000 mAh Lithium ,Mediatek MT6750 Octa Core 1.5 GHz 
+793,Tecno,Camon i4,Nebula Black,"14,994","14,999",4 GB,64GB,15.75 cm ,3500 mAh ,
+794,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+795,Vivo,V5,Crown gold,"17,980","17,980",4 GB,32GB,13.97 cm ,3000 mAh ,MediaTek MT6750 64-bit Octa Core 1.5GHz 
+796,Alcatel,Idol 4,Dark Grey,"16,999","16,999",3 GB,16GB,13.21 cm ,2610 mAh Li-Polymer ,MSM8952 
+797,Vivo,Y69,Gold,"14,914","14,914",3 GB,32GB,13.97 cm ,3000 mAh ,Mediatek MT6750 Octa Core 1.5GHz 
+798,Vivo,Y69,Matte Black,"13,900","13,900",3 GB,32GB,13.97 cm ,3000 mAh ,Mediatek MT6750 Octa Core 1.5GHz 
+799,Alcatel,Idol 4,Metal Silver,"16,999","16,999",3 GB,16GB,13.21 cm ,2610 mAh Li-Polymer ,MSM8952 
+800,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+801,Gionee,F103 Pro,Gold,"10,999","10,999",3 GB,16GB,12.7 cm ,2400 mAh Li-Polymer ,Mediatek MT6735 Quad Core 1.3GHz 
+802,Samsung,Galaxy A20,Black,"11,490","12,900",3 GB,32GB,16.26 cm ,4000 mAh Lithium-ion ,Exynos 7884B 
+803,Apple,iPhone XS Max,Space Grey,"99,699","99,699",, 256 GB,16.51 cm ,,A12 Bionic Chip 
+804,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+805,Samsung,Galaxy A6+,Blue,"25,600","25,600",4 GB, 64 GB,15.24 cm ,3500 mAh ,
+806,OPPO,Neo 7 4G,Black,"10,000","10,000",1 GB,16GB,12.7 cm ,2420 mAh ,MediaTek MT6582 
+807,OPPO,F3 Deepika Padukone Limited Edition,Rose Gold,"17,000","17,000",4 GB,64GB,13.97 cm ,3200 mAh ,Mediatek MT6750T Octa Core 1.5 GHz 
+808,Samsung,Galaxy J7 - 6,New 2016 Edition) ,"15,299","15,585",2 GB,16GB,13.97 cm ,3300 mAh Li-Ion ,Exynos 7870 Octa Core 1.6GHz 
+809,Samsung,Galaxy J7 - 6,New 2016 Edition) ,"13,800","15,014",2 GB,16GB,13.97 cm ,3300 mAh Li-Ion ,Exynos 7870 Octa Core 1.6GHz 
+810,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+811,Vivo,Y53i,Matte Black,"7,990","7,990",2 GB,16GB,12.7 cm ,2500 mAh Li-ion ,Qualcomm MSM8917 
+812,Motorola,Razr,Black,"1,24,999","1,49,999",6 GB, 128 GB,15.75 cm ,2510 mAh ,SDM710 
+813,Samsung,Galaxy A7,Champagne Gold,"15,999","15,999",2 GB,16GB,13.97 cm ,2600 mAh ,
+814,I,Kall K700,Green,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+815,Karbonn,Vue 1,Champagne,"5,889","5,889",1 GB,8GB,13.46 cm ,2300 mAh ,
+816,Itel,a20,Silver,"3,749","3,749",1 GB, 8 GB,10.16 cm ,1700 mAh ,
+817,Vivo,Y53,Matte Black,"8,490","8,490",2 GB,16GB,12.7 cm ,2500 mAh Li-Ion ,Qualcomm Snapdragon 425 64-bit Quad Core 1.4GHz 
+818,Apple,iPhone 8,Gold,"54,999","77,000",, 256 GB,11.94 cm ,,"A11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor "
+819,Yu,topia,Graphite Grey,"8,999","29,999",4 GB,32GB,13.21 cm ,3000 mAh Li-polymer ,Qualcomm Snapdragon 810 Octa Core 64-bit 
+820,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+821,OPPO,F3 Plus,Gold,"23,990","23,990",6 GB,64GB,15.24 cm ,4000 mAh ,Qualcomm MSM8976 Pro Snapdragon 653 octa-core 
+822,HPL,A35,Black,"1,190","1,190",256 MB,512MB,8.89 cm ,1400 mAh Li-Ion ,Spentrum 
+823,Yu,nique 2 Plus,Coal Black,"7,499","7,499",3 GB,16GB,12.7 cm ,2500 mAh Lithium Ion ,MediaTek MT6737 Quad Core 1.3 GHz 
+824,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+825,Motorola,Razr,Gold,"1,24,999","1,49,999",6 GB, 128 GB,15.75 cm ,2510 mAh ,SDM710 
+826,Micromax,Canvas 2 Plus,jet black,"7,978","9,499",3 GB, 32 GB,14.48 cm ,4000 mAh ,
+827,Vivo,V9,Sapphire Blue,"23,990","23,990",4 GB,64GB,16.0 cm ,3260 mAh Li-ion ,Qualcomm Snapdragon 626 
+828,Vivo,Y55S,Matte Black,"13,995","13,995",3 GB,16GB,13.21 cm ,2730 mAh Li-Ion ,Qualcomm Snapdragon 425 64-bit Quad Core 1.4GHz 
+829,HTC,U11,Solar Red,"53,990","53,990",6 GB, 128 GB,13.97 cm ,3000 mAH ,Qualcomm Snapdragon 835 64-bit 
+830,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+831,Honor,9N,Robin Egg Blue,"12,500","12,500",3 GB,32GB,14.83 cm ,3000 mAh ,Kirin 659 Octa Core 
+832,Honor,9N,Robin Egg Blue,"14,500","14,500",4 GB,64GB,14.83 cm ,3000 mAh ,Kirin 659 Octa Core 
+833,nuvo,BLUE ND40,White,"2,799","2,799",512 MB,4GB,10.16 cm ,1350 mAh Li-Ion ,Mediatek Dual Core 
+834,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+835,I,Kall K400,Black,"6,999","6,999",4 GB, 64 GB,15.24 cm ,3000 mAh ,
+836,Vivo,V7,Gold,"18,990","18,990",4 GB,32GB,14.48 cm ,3000 mAh Li-ion ,Qualcomm Snapdragon 450 Octa Core 1.8 GHz 
+837,Micromax,Canvas Nitro 2,White & Gold,"7,999","7,999",2 GB,16GB,12.7 cm ,2400 mAh Li-Ion ,Mediatek MT6592 Octa Core 1.4GHz 
+838,Vivo,V15 Pro,Topaz Blue,"23,990","32,990",6 GB,128GB,16.23 cm ,3700 mAh Li-ion ,Qualcomm Snapdragon 675AIE Octa Core 2.0GHz 
+839,Honor,7X,Blue,"15,500","15,500",4 GB,64GB,15.06 cm ,3340 mAH Lithium-polymer ,Kirin 659 
+840,I,Kall K700,Green,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+841,Micromax,Canvas L A108,White,"11,999","11,999",1 GB,8GB,13.97 cm ,2350 mAh ,MT6582M 
+842,LG,L90 Dual,White,"15,532","15,532",1 GB,8GB,10.16 cm ,2540 mAh Li-Ion ,Snapdragon 
+843,Intex,Aqua Lions X1+,Champagne,"8,999","8,999",3 GB,32GB,13.21 cm ,2800 mAh Li-ion ,MT6737 
+844,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+845,Iball,Andi 4P Class X,White & Silver,"3,000","3,000",1 GB, 8 GB,10.16 cm ,1400 mAh ,
+846,nuvo,Alpha NS35 4GB,White,"2,549","2,549",512 MB,4GB,3.56 cm ,1400 mAh Li-Ion ,Single Core 
+847,Apple,iPhone 7,Rose Gold,"47,490","47,490",, 256 GB,11.94 cm ,,
+848,Vivo,V11,Nebula Purple,"19,999","19,999",6 GB,64GB,16.0 cm ,3315 mAh ,MediaTek P60 Octa Core 2.0 GHz 
+849,Rage,Octa One 5.0,Grey,"7,900","7,900",1 GB, 8 GB,12.7 cm ,2300 mAh ,
+850,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+851,LG,G7 ThinQ,Platinum,"53,000","53,000",4 GB,64GB,15.49 cm ,3000 mAh Li-ion ,Qualcomm Snapdragon 845 
+852,Samsung,Galaxy S8 Plus,Midnight Black,"66,900","66,900",6 GB,128GB,15.75 cm ,3500 mAh ,Exynos 8895 Octa Core 2.3GHz 
+853,Samsung,Galaxy Note 9,Metallic Copper,"73,600","73,600",6 GB,128GB,16.26 cm ,4000 mAh Lithium-ion ,
+854,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+855,Asus,Zenfone 4,Red,"7,499","7,499",1 GB,8GB,11.43 cm ,1750 mAh Lithium ,Intel Atom Z2520 Processor with Intel Hyper Threading Technology 
+856,Honor,7C,Black,"12,999","12,999",3 GB,32GB,15.21 cm ,3000 mAh ,Qualcomm SDM450 
+857,Apple,iPhone 6s Plus,Space Grey,"42,990","42,990",, 16 GB,13.97 cm ,,Apple A9 64-bit 
+858,LG,Q Stylus+,Black,"24,797","24,797",4 GB,64GB,15.75 cm ,3300 mAh ,MediaTek MTK 6750S 1.5 Ghz Octa-core 
+859,Alcatel,U5 HD,Metallic Gold,"6,499","6,499",2 GB,16GB,12.7 cm ,2200 mAh ,MTK6737 
+860,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+861,XOLO,BLACK,Black,"11,936","11,936",2 GB,16GB,13.97 cm ,3200 mAh Li-Polymer ,Qualcomm Snapdragon 615 MSM8939 64-bit Cortex-A53 
+862,OPPO,F9,Stellar Purple,"17,890","21,990",4 GB,64GB,16.0 cm ,3500 mAh ,Mediatek Helio P60 Octacore 2.0 GHz 
+863,Micromax,Q402+,Black,"4,199","4,199",1 GB, 8 GB,10.16 cm ,1700 mAh ,
+864,I,Kall K700,Green,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+865,Alcatel,3X,Blue,"9,999","9,999",3 GB, 32 GB,14.48 cm ,3000 mAh ,
+866,Redmi,Y2,Gold,"10,990","10,990",3 GB,32GB,15.21 cm ,3080 mAh Li Polymer ,Qualcomm Snapdragon 625 
+867,Gionee,P7,Gold,"9,999","9,999",2 GB,16GB,12.7 cm ,2300 mAh Li-Ion ,Quad Core 1.3GHz 
+868,Moto,Turbo,Black,"31,999","31,999",3 GB, 64 GB,13.21 cm ,3900 mAh ,Qualcomm Snapdragon 805 QSC 8084 
+869,Samsung,Galaxy A80,Ghost White,"52,927","52,927",8 GB, 128 GB,17.02 cm ,3700 mAh ,Qualcomm Snapdragon 730G Octa-Core 
+870,I,Kall K300 NEW,Black,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+871,HTC,Desire 616 Dual Sim,Dark Gray,"17,200","17,200",1 GB,4GB,12.7 cm ,2000 mAh Li-Polymer ,
+872,OPPO,K1,Astral Blue,"18,990","19,038",6 GB,64GB,16.28 cm ,3600 mAh ,Qualcomm Snapdragon 660 Octa Core 1.95 GHz 
+873,Micromax,Selfie 2,Champagne,"8,420","9,180",3 GB,32GB,13.21 cm ,3000 mAh Polymer ,MT6737 
+874,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+875,Micromax,Selfie 2,Matte Black,"8,398","9,999",3 GB,32GB,13.21 cm ,3000 mAh Polymer ,MT6737 
+876,Karbonn,Vue 1,Black,"5,889","5,889",1 GB,8GB,13.46 cm ,2300 mAh ,
+877,Honor,8,,"29,999","29,999",4 GB,32GB,13.21 cm ,3000 mAh Li-Polymer ,ARM Hisilicon Kirin 950 - ARM Cortex A72 + ARM Cortex A53 Octa Core 2.3GHz 
+878,Honor,8,,"29,999","29,999",4 GB,32GB,13.21 cm ,3000 mAh Li-Polymer ,ARM Hisilicon Kirin 950 - ARM Cortex A72 + ARM Cortex A53 Octa Core 2.3GHz 
+879,LG,L 80 Dual,White,"14,162","14,162",1 GB,4GB,12.7 cm ,2540 mAh ,Qualcomm Snapdragon 
+880,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+881,LG,G2 D802,Black Gold,"31,971","31,971",2 GB, 16 GB,13.21 cm ,3000 mAh SiO+ Li-Polymer ,Qualcomm Snapdragon 800 
+882,Samsung,Galaxy Note 9,Ocean Blue,"93,000","93,000",8 GB,512GB,16.26 cm ,4000 mAh Lithium-ion ,
+883,XOLO,A500S Lite,Black,"5,999","5,999",512 MB,4GB,10.16 cm ,1400 mAh ,MTK 6572 
+884,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+885,POCO,F1,Steel Blue,"19,999","19,999",6 GB,64GB,15.7 cm ,4000 mAh Li-polymer ,Qualcomm Snapdragon 845 
+886,HTC,10,Topaz Gold,"56,690","56,690",4 GB,32GB,13.21 cm ,3000 mAh Li-Polymer ,Qualcomm Snapdragon 820 64-bit Quad Core 2.2GHz 
+887,Samsung,Galaxy A70,White,"27,999","29,999",6 GB,128GB,17.02 cm ,4500 mAh Lithium-ion ,"Octa core (2 GHz, Dual core, Kryo 460 + 1.7 GHz, Hexa Core, Kryo 460) "
+888,Alcatel,3V,Spectrum Blue,"10,999","10,999",3 GB,32GB,15.24 cm ,3000 mAh ,MT8735A A53 
+889,Samsung,Galaxy A20s,Black,"14,900","14,900",4 GB,64GB,16.51 cm ,4000 mAh Lithium Ion ,Qualcomm SDM450-B01 
+890,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+891,Samsung,Galaxy S8 Plus,Midnight Black,"53,990","53,990",4 GB,64GB,15.75 cm ,3500 mAh ,Exynos 8895 Octa Core 2.3GHz 
+892,Celkon,Cliq 2,White&Gold,"6,900","6,900",3 GB,32GB,12.7 cm ,3000 mAh ,CORTEX A53 
+893,Blackberry,Evolve,Black,"18,999","18,999",4 GB,64GB,15.21 cm ,4000 mAh ,Qualcomm SDM450 with 64 bit Octa-core 1.8GHz Cortex-A53 
+894,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+895,Nexus,6P Special Edition,Gold,"42,998","42,998",3 GB, 64 GB,14.48 cm ,3450 mAh Li-Polymer ,Qualcomm Snapdragon 810 v2.1 64-bit 
+896,Moto,X Play,With Turbo Charger) ,"17,499","17,499",2 GB,16GB,13.97 cm ,3630 mAh Li-Ion ,Qualcomm Snapdragon 615 
+897,Asus,Zenfone 2 Laser,Black,"12,999","12,999",3 GB,16GB,13.97 cm ,3000 mAh Li-Polymer ,Qualcomm Snapdragon 615 Octa Core 1.5GHz 
+898,Voto,V2i,Champagne Gold,"5,799","5,799",2 GB, 32 GB,12.7 cm ,3000 mAh ,Spreadtrum SC9832 Cortex A7 
+899,tecno,Camon i Click,Gold,"11,950","11,950",4 GB, 64 GB,15.24 cm ,3750 mAh ,
+900,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+901,Honor,7C,Blue,"12,999","12,999",3 GB,32GB,15.21 cm ,3000 mAh ,Qualcomm SDM450 
+902,Huawei,P9,Prestige Gold,"39,999","39,999",3 GB,32GB,13.21 cm ,3000 mAh ,HUAWEI Kirin 955 ARM Cortex-A72 64-bit + ARM Cortex-A53 64-bit Octa Core 2.5GHz 
+903,Apple,iPhone 8 Plus,Silver,"65,999","67,499",, 256 GB,13.97 cm ,,"A11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor "
+904,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+905,Redmi,Note 4,Gold,"12,750","12,750",4 GB,64GB,13.97 cm ,4100 mAh Li-Polymer ,Qualcomm Snapdragon 625 64-bit Octa Core 2GHz 
+906,Panasonic,Eluga Ray 800,Gold,"14,990","14,990",4 GB,64GB,13.97 cm ,4000 mAh ,SC9853I 
+907,OPPO,A7,Glaring Gold,"13,990","13,990",3 GB,64GB,15.75 cm ,4230 mAh ,Qualcomm Snapdragon 450 
+908,OPPO,F9 Pro,Sunrise Red,"19,990","25,000",6 GB,64GB,16.0 cm ,3500 mAh Li-polymer ,Mediatek Helio P60 Octacore 2.0 GHz 
+909,Samsung,Galaxy A70,Black,"34,999","34,999",6 GB,128GB,17.02 cm ,4500 mAh Lithium-ion ,Qualcomm Snapdragron 675 
+910,I,Kall K700,Green,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+911,Gionee,F103 Pro,Grey,"8,798","8,990",3 GB,16GB,12.7 cm ,2400 mAh Li-Polymer ,MT6735 
+912,Itel,IT 1508,Champagne Gold,"3,449","3,449",512 MB, 8 GB,12.7 cm ,2400 mAh ,
+913,OPPO,A5,Diamond Blue,"14,990","14,990",4 GB,32GB,15.75 cm ,4230 mAh Li-ion ,Qualcomm Snapdragon 450 
+914,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+915,Vivo,Y95,Nebula Purple,"18,990","18,990",4 GB,64GB,15.8 cm ,4030 mAh ,Qualcomm Snapdragon 439 
+916,Apple,iPhone 8,Space Grey,"54,999","77,000",, 256 GB,11.94 cm ,,"A11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor "
+917,Yu,nique 2 Plus,Champagne,"6,499","6,799",3 GB,16GB,12.7 cm ,2500 mAh Lithium Ion ,MediaTek MT6737 Quad Core 1.3 GHz 
+918,Mi,A2,Red,"13,250","13,250",4 GB, 64 GB,15.21 cm ,3010 mAh ,Qualcomm Snapdragon 660 AIE 
+919,Datawind,PocketSurfer 2G4,Black,"2,210","2,392",512 MB, 512 MB,6.2 cm ,900 mAh Li-Ion ,
+920,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+921,Coolpad,Mega 5M,Gold,"4,999","4,999",1 GB,16GB,12.7 cm ,2000 mAh ,"Quad Core, SC9850K Processor "
+922,Redmi,Note 5,Black,"10,999","10,999",3 GB,32GB,15.21 cm ,4000 mAh Li Polymer ,Qualcomm Snapdragon 625 
+923,Vivo,Y93,Starry Black,"14,990","14,990",3 GB,64GB,15.8 cm ,4030 mAh Li-ion ,MediaTek Helio P22 
+924,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+925,Asus,Zenfone 4,Blue,"6,499","6,499",1 GB,8GB,10.16 cm ,1600 mAh Lithium ,Intel Atom Z2520 Processor with Intel Hyper Threading Technology 
+926,OPPO,F9 Pro,Starry Purple,"21,150","21,150",6 GB,64GB,16.0 cm ,3500 mAh Li-polymer ,Mediatek Helio P60 Octacore 2.0 GHz 
+927,Nokia,9,Blue,"51,999","56,299",6 GB, 128 GB,15.21 cm ,3320 mAh ,Qualcomm Snapdragon 845 
+928,Alcatel,3X,Black,"9,999","9,999",3 GB, 32 GB,14.48 cm ,3000 mAh ,
+929,Vivo,Y81i,Black,"9,800","9,800",2 GB,16GB,15.8 cm ,3260 mAh Li-ion ,MediaTek Helio A22 
+930,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+931,Redmi,Note 4,Gold,"11,490","11,490",3 GB,32GB,13.97 cm ,4100 mAh Li-Polymer ,Qualcomm Snapdragon 625 64-bit Octa Core 2GHz 
+932,Apple,iPhone 6,Space Grey,"52,000","52,000",, 16 GB,11.94 cm ,,Apple A8 64-bit 
+933,Samsung,M01 core,Red,"7,994","7,994",2 GB,32GB,13.46 cm ,3000 mAh ,MediaTek | MT6739WW quad core  
+934,I,Kall K700,Green,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+935,Itel,A42 Plus,Phantomblack,"5,850","5,850",2 GB, 16 GB,12.7 cm ,2700 mAh ,
+936,LG,G7+ ThinQ,Blue,"54,998","54,998",6 GB,128GB,15.49 cm ,3000 mAh Li-ion ,Qualcomm Snapdragon 845 
+937,Homtom,H3,Black,"7,500","7,500",3 GB, 32 GB,13.97 cm ,3500 mAh ,
+938,Vivo,V11 Pro,Dazzling Gold,"22,654","22,654",6 GB,64GB,16.28 cm ,3400 mAh Li-ion ,2.0 GHz Qualcomm Snapdragon 660 AIE 
+939,Vivo,Y91,Ocean Blue,"11,990","11,990",2 GB,32GB,15.8 cm ,4030 mAh Li-ion ,Helio P22 (MTK6762R) 
+940,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+941,Samsung,Galaxy Note 8,Maple Gold,"59,900","59,900",6 GB,64GB,16.0 cm ,3300 mAh ,
+942,Samsung,Galaxy Note 9,Ocean Blue,"67,900","67,900",6 GB,128GB,16.26 cm ,4000 mAh Lithium-ion ,
+943,OPPO,F3,Rose Gold,"18,000","18,000",4 GB,64GB,13.97 cm ,3200 mAh ,Mediatek MT6750T 
+944,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+945,InFocus,Turbo 5s,Platinum Gold,"9,500","9,500",3 GB,32GB,13.21 cm ,4000 mAh ,
+946,Mi,A2,Black,"10,500","11,600",4 GB, 64 GB,15.21 cm ,3010 mAh ,Qualcomm Snapdragon 660 AIE 
+947,OPPO,F5,Black,"26,474","26,474",6 GB,64GB,15.24 cm ,3200 mAh ,Mediatek MT6763T Octa Core 2.5 GHz 
+948,Coolpad,Cool 3,Midnight Blue,"8,999","8,999",4 GB,64GB,14.48 cm ,3000 mAh ,SC9863A 
+949,OPPO,F5,Gold,"20,990","20,990",4 GB,32GB,15.24 cm ,3200 mAh ,Mediatek MT6763T Octa Core 2.5 GHz 
+950,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+951,OPPO,F5,Black,"15,500","15,500",4 GB,32GB,15.24 cm ,3200 mAh ,Mediatek MT6763T Octa Core 2.5 GHz 
+952,Datawind,PocketSurfer 3G4+,Black,"2,199","2,199",256 MB, 512 MB,10.16 cm ,1200 mAh ,
+953,Samsung,Galaxy A8 Plus,Black,"25,999","25,999",6 GB, 64 GB,15.24 cm ,3500 mAh ,
+954,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+955,Tecno,Camon i Sky,midnight black,"8,592","8,592",2 GB, 16 GB,13.84 cm ,3050 mAh ,
+956,LG,Q6,Platinum,"10,500","10,500",3 GB,32GB,13.97 cm ,3000 mAh Li-ion ,Qualcomm Snapdragon 435 1.4 GHz Octacore 
+957,Tecno,Camon I Air 2+,Midnight Black,"9,900","9,900",2 GB,32GB,15.75 cm ,3750 mAh ,
+958,Tecno,Camon I Air,Champagne Gold,"7,996","7,999",2 GB,16GB,14.35 cm ,3050 mAh ,Cortex A53 
+959,Samsung,Galaxy A80,Angel Gold,"44,300","52,000",8 GB, 128 GB,17.02 cm ,3700 mAh ,Qualcomm Snapdragon 730G Octa-Core 
+960,I,Kall K700,Green,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+961,LG,Q6,Platinum,"10,500","10,500",3 GB,32GB,13.97 cm ,3000 mAh Li-ion ,Qualcomm Snapdragon 435 1.4 GHz Octacore 
+962,Tecno,Camon I Air 2+,Midnight Black,"9,900","9,900",2 GB,32GB,15.75 cm ,3750 mAh ,
+963,Samsung,Galaxy A80,Angel Gold,"44,300","52,000",8 GB, 128 GB,17.02 cm ,3700 mAh ,Qualcomm Snapdragon 730G Octa-Core 
+964,I,Kall K300 NEW,Cyan,"7,999","9,999",4 GB, 64 GB,16.59 cm ,4000 mAh ,
+965,Tecno,Camon I Air,Champagne Gold,"7,996","7,999",2 GB,16GB,14.35 cm ,3050 mAh ,Cortex A53 
+966,Itel,A41,Champagne Gold,"4,889","4,889",1 GB, 8 GB,12.7 cm ,2400 mAh ,
+967,Samsung,Galaxy A7,Blue,"17,990","25,379",4 GB,64GB,15.24 cm ,3300 mAh Lithium-ion ,Samsung Exynos Octa Core Processor (2.2 GHz) 
+968,Asus,Zenfone Selfie,Silver,"10,999","10,999",2 GB,16GB,13.97 cm ,3000 mAh Li-Polymer ,Qualcomm Snapdragon 615 MSM8939 
+969,Vivo,Y95,Starry Black,"14,990","14,990",4 GB,64GB,15.8 cm ,4030 mAh ,Qualcomm Snapdragon 439 
+970,I,Kall K6,Red,"6,599","7,299",4 GB, 32 GB,15.9 cm ,3000 mAh ,
+971,Samsung,Galaxy J5 Prime,Gold,"14,500","14,500",2 GB,16GB,12.7 cm ,2400 mAh Li-Ion ,Exynos 7570 Quad Core 1.4GHz 
+972,Mi,A2,Gold,"10,500","10,500",4 GB, 64 GB,15.21 cm ,3010 mAh ,Qualcomm Snapdragon 660 AIE 
+973,Nokia,2.1,Blue&Copper,"6,500","6,500",1 GB, 8 GB,13.97 cm ,4000 mAh ,
+974,I,Kall K900,Sky Blue,"6,699","7,599",4 GB, 64 GB,13.97 cm ,3000 mAh ,
+975,Samsung,Galaxy J2 2018,Pink,"6,799","6,799",2 GB,16GB,12.7 cm ,2600 mAh ,Snapdragon 425 
+976,Samsung,M01 core,Red,"6,999","6,999",1 GB,16GB,13.46 cm ,3000 mAh ,MediaTek | MT6739WW quad core  
+977,Vivo,V7,Energetic Blue,"15,990","15,990",4 GB,32GB,14.48 cm ,3000 mAh Li-ion ,Qualcomm Snapdragon 450 Octa Core 1.8 GHz 
+978,Nokia,3.1,Black,"9,999","9,999",2 GB, 16 GB,13.21 cm ,2990 mAh ,
+979,LG,V40 ThinQ,Platinum Grey,"60,000","60,000",6 GB,128GB,16.26 cm ,3300 mAh Lithium Ion ,Qualcomm Snapdragon 845 
+980,I,Kall K9,Blue,"5,199","5,199",2 GB, 16 GB,15.24 cm ,2800 mAh ,
+981,Tecno,Spark Power,Alphenglow Gold,"10,000","10,000",4 GB,64GB,16.13 cm ,6000 mAh Li-Polymer ,Mediatek Helio 
+982,Samsung,Galaxy Note 9,Midnight Black,"66,998","66,998",6 GB,128GB,16.26 cm ,4000 mAh Lithium-ion ,
+983,Mi,A2,Rose Gold,"13,999","13,999",4 GB, 64 GB,15.21 cm ,3010 mAh ,Qualcomm Snapdragon 660 AIE 
+984,I,Kall K700,Green,"6,799","6,999",4 GB, 32 GB,15.9 cm ,3000 mAh ,
